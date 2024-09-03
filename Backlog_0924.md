@@ -4,4 +4,5 @@
 | Date | Subject | Material | Additional info |
 | ---- | ------- | -------- | --------------- |
 | 2    | #Andere | Anfang   |                 |
-| 3    | #Andere |          | Nicht anwese    |
+| 3    | #Andere |          | Nicht anwesend  |
+|      |         |          |                 |
