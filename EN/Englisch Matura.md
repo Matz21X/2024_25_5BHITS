@@ -1,6 +1,8 @@
 
-General topic: Work
+# Englisch Matura
+#EN #SCHW
 
+General topic: Work
 ## Written
 
 - Report
@@ -17,3 +19,11 @@ General topic: Work
 
 # Oral
 
+- 20-30 min prep
+- take notes
+- Monologue 5-6 min
+- Dialog 6-8 mins
+
+
+![[]]
+![[Englisch Matura-20240904090133598.webp]]

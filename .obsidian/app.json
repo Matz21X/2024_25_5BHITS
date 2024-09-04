@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "attachmentFolderPath": "./attachments"
 }
