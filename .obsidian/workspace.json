@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Internship Homework.md"
+                "file": "Backlog_0924.md"
               }
             }
           }
@@ -187,10 +186,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8d97068ccbf323af",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
-    "EN/Englisch Matura.md",
     "EN/Internship Homework.md",
+    "EN/Englisch Matura.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",
     "DE/Bruh.md",
     "EN/Englisch Matura-20240904090057071.webp",

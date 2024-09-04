@@ -1,9 +1,10 @@
 ## Backlog September
 #Backlog
 
-| Date | Subject | Material                  | Additional info |
-| ---- | ------- | ------------------------- | --------------- |
-| 2    | #Andere | Anfang                    |                 |
-| 3    | #Andere |                           | Nicht anwesend  |
-| 4    | #DE     | Zusammenfassung           |                 |
-| -    | #EN     | [[Englisch Matura]] |                 |
+| Date | Subject | Material                                     | Additional info |
+| ---- | ------- | -------------------------------------------- | --------------- |
+| 2    | #Andere | Anfang                                       |                 |
+| 3    | #Andere |                                              | Nicht anwesend  |
+| 4    | #DE     | Zusammenfassung                              |                 |
+| -    | #EN     | [[Englisch Matura]]                          |                 |
+| -    | #NWT    | Stoff durchgegangen / Smart-Home Kaffeekranz |                 |
