@@ -25,5 +25,5 @@ General topic: Work
 - Dialog 6-8 mins
 
 
-![[]]
+
 ![[Englisch Matura-20240904090133598.webp]]

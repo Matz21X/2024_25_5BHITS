@@ -25,24 +25,16 @@
             "id": "4011375d6dd436c3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Englisch Matura-20240904085411584.webp"
-              }
-            }
-          },
-          {
-            "id": "89561e40eadea363",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "EN/Englisch Matura-20240904090118771.webp"
+                "file": "EN/Englisch Matura.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Englisch Matura-20240904090118771.webp",
+                "file": "EN/Englisch Matura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Englisch Matura-20240904090118771.webp",
+                "file": "EN/Englisch Matura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Englisch Matura-20240904090118771.webp"
+                "file": "EN/Englisch Matura.md"
               }
             }
           }
@@ -173,13 +165,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "89561e40eadea363",
+  "active": "4011375d6dd436c3",
   "lastOpenFiles": [
-    "EN/Englisch Matura-20240904090057071.webp",
+    "DE/Bruh.md",
     "EN/Englisch Matura.md",
+    "EN/Englisch Matura-20240904090057071.webp",
+    "EN/Englisch Matura-20240904090118771.webp",
     "EN/attachments/Englisch Matura-20240904090133598.webp",
     "EN/attachments",
-    "EN/Englisch Matura-20240904090118771.webp",
     "Attachments/Englisch Matura-20240904085411584.webp",
     "Backlog_0924.md",
     "Attachments",

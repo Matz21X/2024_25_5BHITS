@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "showInlineTitle": false,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false
 }
