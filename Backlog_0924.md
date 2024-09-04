@@ -9,4 +9,5 @@
 | -    | #EN     | [[Englisch Matura]]                          |                 |
 | -    | #NWT    | Stoff durchgegangen / Smart-Home Kaffeekranz |                 |
 | -    | #ITP    | [[Rechte und Pflichten der Mitarbeiter]]     |                 |
-|      | #WIR    | Was i                                        |                 |
+|      | #WIR    | NIX                                          |                 |
+|      | #RK     |                                              |                 |
