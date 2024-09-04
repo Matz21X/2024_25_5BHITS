@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EN/Englisch written part.md",
+                "file": "EN/Englisch Matura.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Englisch written part.md",
+                "file": "EN/Englisch Matura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Englisch written part.md",
+                "file": "EN/Englisch Matura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Englisch written part.md"
+                "file": "EN/Englisch Matura.md"
               }
             }
           }
@@ -165,11 +165,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "79abe6297f44a2cc",
+  "active": "4011375d6dd436c3",
   "lastOpenFiles": [
     "Attachments",
     "Backlog_0924.md",
-    "EN/Englisch written part.md",
+    "EN/Englisch Matura.md",
     "EN",
     "DE",
     "WIR",

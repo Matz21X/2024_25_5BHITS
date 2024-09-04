@@ -1,6 +1,8 @@
 
 General topic: Work
 
+## Written
+
 - Report
 - Article
 - Leaflet
@@ -12,3 +14,6 @@ General topic: Work
 1. Reading 60 min (4 Tasks)
 2. Listening 45 min (4 Tasks)
 3. Writing
+
+# Oral
+
