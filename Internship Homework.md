@@ -1,3 +1,0 @@
-# Internship homework
-#EN #SCHW 
-

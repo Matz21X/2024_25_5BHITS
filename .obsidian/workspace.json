@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internship Homework.md",
+                "file": "EN/Internship Homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internship Homework.md",
+                "file": "EN/Internship Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Internship Homework.md",
+                "file": "EN/Internship Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Internship Homework.md"
+                "file": "EN/Internship Homework.md"
               }
             }
           }
@@ -187,10 +187,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "dc867e70b6080cb9",
+  "active": "8d97068ccbf323af",
   "lastOpenFiles": [
     "EN/Englisch Matura.md",
-    "Internship Homework.md",
+    "EN/Internship Homework.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",
     "DE/Bruh.md",
     "EN/Englisch Matura-20240904090057071.webp",
