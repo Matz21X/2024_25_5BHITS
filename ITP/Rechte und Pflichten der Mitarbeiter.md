@@ -9,3 +9,5 @@
 
 **AG: Unternehmen (Gewerbebetriebe)** - Maurer, Maler, Installateur
 **AN: Angestellte, Arbeiter**
+
+![[Gewerbe.drawio.svg]]

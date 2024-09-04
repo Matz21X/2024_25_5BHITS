@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rechte und Pflichten der Mitarbeiter.md",
+                "file": "EN/Internship Homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aad4d9f7459aed23",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rechte und Pflichten der Mitarbeiter.md",
+                "file": "EN/Internship Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rechte und Pflichten der Mitarbeiter.md",
+                "file": "EN/Internship Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rechte und Pflichten der Mitarbeiter.md"
+                "file": "EN/Internship Homework.md"
               }
             }
           }
@@ -200,10 +199,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "711c5f55394c9032",
+  "active": "8d97068ccbf323af",
   "lastOpenFiles": [
+    "ITP/attachments",
+    "ITP/Rechte und Pflichten der Mitarbeiter.md",
+    "ITP",
+    "Gewerbe.drawio.svg",
     "EN/Internship Homework.md",
-    "Rechte und Pflichten der Mitarbeiter.md",
     "EN/Englisch Matura.md",
     "Backlog_0924.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",
@@ -219,8 +221,6 @@
     "WIR",
     "SYT",
     "SEW-Theorie",
-    "SEW-Prog",
-    "REL",
-    "NWT"
+    "SEW-Prog"
   ]
 }
