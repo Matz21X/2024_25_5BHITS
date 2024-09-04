@@ -1,9 +1,9 @@
 ## Backlog September
 #Backlog
 
-| Date | Subject | Material        | Additional info |
-| ---- | ------- | --------------- | --------------- |
-| 2    | #Andere | Anfang          |                 |
-| 3    | #Andere |                 | Nicht anwesend  |
-| 4    | #DE     | Zusammenfassung |                 |
-| -    | #EN     |                 |                 |
+| Date | Subject | Material                  | Additional info |
+| ---- | ------- | ------------------------- | --------------- |
+| 2    | #Andere | Anfang                    |                 |
+| 3    | #Andere |                           | Nicht anwesend  |
+| 4    | #DE     | Zusammenfassung           |                 |
+| -    | #EN     | [[Englisch written part]] |                 |
