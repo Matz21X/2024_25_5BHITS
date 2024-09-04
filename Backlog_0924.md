@@ -11,4 +11,4 @@
 | -    | #ITP    | [[Rechte und Pflichten der Mitarbeiter]]     |                 |     |
 |      | #WIR    | NIX                                          |                 |     |
 |      | #RK     | Themen                                       |                 |     |
-|      | #SEW    |                                              |                 |     |
+|      | #SEW    | Projekt: AlgoPerformance                     |                 |     |
