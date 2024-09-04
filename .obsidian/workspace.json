@@ -22,53 +22,18 @@
             }
           },
           {
-            "id": "18a5a9e35a764974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EN/Englisch Matura.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc867e70b6080cb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EN/Internship Homework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "711c5f55394c9032",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "ITP/Rechte und Pflichten der Mitarbeiter.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4011375d6dd436c3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "EN/attachments/Englisch Matura-20240904091224796.webp"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Internship Homework.md"
+                "file": "Backlog_0924.md"
               }
             }
           }
@@ -199,13 +164,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8d97068ccbf323af",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
-    "ITP/attachments",
+    "ITP/attachments/Gewerbe.drawio",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
-    "ITP",
-    "Gewerbe.drawio.svg",
     "EN/Internship Homework.md",
+    "ITP/attachments",
+    "ITP",
+    "ITP/attachments/Gewerbe.drawio.svg",
     "EN/Englisch Matura.md",
     "Backlog_0924.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",
