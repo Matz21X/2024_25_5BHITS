@@ -27,3 +27,5 @@ General topic: Work
 
 
 ![[Englisch Matura-20240904090133598.webp]]
+
+![[Englisch Matura-20240904091224796.webp]]

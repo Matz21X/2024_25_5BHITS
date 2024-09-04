@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "4011375d6dd436c3",
+            "id": "18a5a9e35a764974",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +32,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc867e70b6080cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internship Homework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4011375d6dd436c3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "EN/attachments/Englisch Matura-20240904091224796.webp"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Englisch Matura.md",
+                "file": "Internship Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Englisch Matura.md",
+                "file": "Internship Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Englisch Matura.md"
+                "file": "Internship Homework.md"
               }
             }
           }
@@ -165,10 +187,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4011375d6dd436c3",
+  "active": "dc867e70b6080cb9",
   "lastOpenFiles": [
-    "DE/Bruh.md",
     "EN/Englisch Matura.md",
+    "Internship Homework.md",
+    "EN/attachments/Englisch Matura-20240904091224796.webp",
+    "DE/Bruh.md",
     "EN/Englisch Matura-20240904090057071.webp",
     "EN/Englisch Matura-20240904090118771.webp",
     "EN/attachments/Englisch Matura-20240904090133598.webp",
