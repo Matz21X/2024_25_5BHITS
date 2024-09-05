@@ -12,4 +12,6 @@
 | -    | #WIR    | NIX                                          |                 |     |
 | -    | #RK     | Themen                                       |                 |     |
 | -    | #SEW    | Projekt: AlgoPerformance                     |                 |     |
-| 5    | #INSY   |                                              |                 |     |
+| 5    | #INSY   | NIX                                          |                 |     |
+| -    | #ITP    | NIX                                          |                 |     |
+| -    | #       |                                              |                 |     |
