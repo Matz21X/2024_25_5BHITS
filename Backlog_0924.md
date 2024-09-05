@@ -13,5 +13,5 @@
 | -    | #RK     | Themen                                       |                 |     |
 | -    | #SEW    | Projekt: AlgoPerformance                     |                 |     |
 | 5    | #INSY   | NIX                                          |                 |     |
-| -    | #ITP    | NIX                                          |                 |     |
-| -    | #       |                                              |                 |     |
+| -    | #ITP    | Rechttbuch auf Win2Day registrieren          |                 |     |
+| -    | #WIR    |                                              |                 |     |
