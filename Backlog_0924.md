@@ -9,6 +9,7 @@
 | -    | #EN     | [[Englisch Matura]]                          |                 |     |
 | -    | #NWT    | Stoff durchgegangen / Smart-Home Kaffeekranz |                 |     |
 | -    | #ITP    | [[Rechte und Pflichten der Mitarbeiter]]     |                 |     |
-|      | #WIR    | NIX                                          |                 |     |
-|      | #RK     | Themen                                       |                 |     |
-|      | #SEW    | Projekt: AlgoPerformance                     |                 |     |
+| -    | #WIR    | NIX                                          |                 |     |
+| -    | #RK     | Themen                                       |                 |     |
+| -    | #SEW    | Projekt: AlgoPerformance                     |                 |     |
+| 5    | #INSY   |                                              |                 |     |
