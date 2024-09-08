@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad1159c27c64020a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EN/Internship Homework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "EN/Internship Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "EN/Internship Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0924.md"
+                "file": "EN/Internship Homework.md"
               }
             }
           }
@@ -152,6 +165,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,8 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "ad1159c27c64020a",
   "lastOpenFiles": [
+    "Backlog_0924.md",
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl/algoperformance/AlgoPerformance.class",
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl/algoperformance",
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl",
@@ -172,12 +189,10 @@
     "SEW-Prog/AlgoPerformance/target",
     "SEW-Prog/AlgoPerformance/src/main/java/at/htlhl/algoperformance/AlgoPerformance.java",
     "SEW-Prog/AlgoPerformance/src/test/java",
-    "SEW-Prog/AlgoPerformance/src/test",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
     "EN/Internship Homework.md",
     "ITP/attachments/Gewerbe.drawio.svg",
     "EN/Englisch Matura.md",
-    "Backlog_0924.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",
     "DE/Bruh.md",
     "EN/Englisch Matura-20240904090057071.webp",

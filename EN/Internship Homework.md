@@ -36,3 +36,28 @@
 - **Extrapolate** – to extend or project facts, trends, or data into an unknown area to make predictions. E.g., "Internships allow one to extrapolate potential career outcomes."
 - **Confluence** – the junction of two rivers, or more broadly, the coming together of people or things. E.g., "Internships represent a confluence of learning, networking, and career development."
 - **Juxtapose** – to place side by side for comparison or contrast. E.g., "Internships juxtapose academic knowledge with practical application, revealing the gaps and bridges between the two."
+  
+  ## Endings:
+  
+  "So, as you look forward to internships, I encourage you to take the leap, explore new industries, and push your limits. Ask questions, seek mentorship, and remember that every opportunity is a stepping stone to your success. The journey starts now—don’t hesitate to dive in and make the most of it"
+
+
+## Guideline:
+
+**Introduction:**
+- Mention personal experiences (engage audience)
+
+**Benefits of Internships:**
+- **Skill development:** Practical skills beyond textbooks—problem-solving, time management, communication.
+- **Networking:** Building professional connections; meeting potential mentors, colleagues, and employers.
+- **Career exploration:** Internships allow you to test different industries/roles before committing to a career path.
+- **Boost to resume:** Makes you stand out to employers by showing real-world experience.
+
+**Challenges of Internships:**
+- **Unpaid internships:** Financial strain but can still offer valuable experiences.
+- **Balancing responsibilities:** Juggling school, internships, and personal life can be tough.
+
+**Tips for Making the Most of Internships:**
+- **Be proactive:** Don’t just wait for assignments—ask questions, seek out opportunities, show initiative.
+- **Build relationships:** Make a good impression; your coworkers can become valuable contacts for your future.
+- **Stay open to learning:** Be willing to take on a variety of tasks, even if they seem small at first—they could teach you a lot.
