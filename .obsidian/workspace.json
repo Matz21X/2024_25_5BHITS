@@ -32,8 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3060b655ca6a2f13",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDT/01-Rendering Pipeline.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "MEDT/01-Rendering Pipeline.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "MEDT/01-Rendering Pipeline.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0924.md"
+                "file": "MEDT/01-Rendering Pipeline.pdf"
               }
             }
           }
@@ -164,11 +175,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "3060b655ca6a2f13",
   "lastOpenFiles": [
+    "Backlog_0924.md",
+    "MEDT/01-Rendering Pipeline.pdf",
+    "MEDT/01-Rendering Pipeline.pdf.crdownload",
+    "MEDT",
+    "Neuer Ordner",
     "EN/Vienna named worlds top city for quality of life.pdf",
     "EN/Internship Homework.md",
-    "Backlog_0924.md",
     "EN/PDFs/Internship Homework.pdf",
     "EN/PDFs",
     "EN/Neuer Ordner",
@@ -176,15 +191,10 @@
     "RK/Lebensweg.md",
     "Textdokument (neu).txt",
     "RK",
-    "Untitled 1",
     "Untitled.md",
-    "Untitled",
     "DE/Bruh.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
     "README.md",
-    "SEW-Prog/AlgoPerformance/target/classes/at/htlhl/algoperformance/AlgoPerformance.class",
-    "SEW-Prog/AlgoPerformance/target/classes/at/htlhl/algoperformance",
-    "SEW-Prog/AlgoPerformance/target/classes/at/htlhl",
     "ITP/attachments/Gewerbe.drawio.svg",
     "EN/Englisch Matura.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",
