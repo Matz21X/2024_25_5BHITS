@@ -1,0 +1,11 @@
+{
+  "colored-text:change-colored-text-mode": [],
+  "colored-text:color-text": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ]
+}
