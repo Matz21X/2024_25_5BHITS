@@ -20,5 +20,5 @@
 | -    | #RK     | Lebensweg                                    |                                                          |                                                          |
 | -    | #AM     | NIX                                          |                                                          |                                                          |
 |      | #EN     | 6 minute monologue                           | Create doc: Business location Austria Text by 16th Sept. | [[Vienna named worlds top city for quality of life.pdf]] |
-|      | #MEDT   |                                              |                                                          |                                                          |
+|      | #MEDT   | Notenbildung / Stoffbild                     |                                                          |                                                          |
 |      |         |                                              |                                                          |                                                          |
