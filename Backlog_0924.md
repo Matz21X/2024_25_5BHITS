@@ -17,3 +17,5 @@
 | -    | #WIR    | Kahoot                                       |                 |     |
 | 6    | #DA     | Openmediavault                               |                 |     |
 | 9    | #DE     | [[Wiederholung]]                             |                 |     |
+| -    | #RK     | Lebensweg                                    |                 |     |
+| -    | #AM     |                                              |                 |     |

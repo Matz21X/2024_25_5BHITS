@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RK/Lebensweg.md",
+                "file": "DE/Wiederholung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa49ace362fd4800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EN/Internship Homework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RK/Lebensweg.md",
+                "file": "EN/Internship Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RK/Lebensweg.md",
+                "file": "EN/Internship Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RK/Lebensweg.md"
+                "file": "EN/Internship Homework.md"
               }
             }
           }
@@ -165,15 +177,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8d97068ccbf323af",
+  "active": "fa49ace362fd4800",
   "lastOpenFiles": [
+    "Backlog_0924.md",
+    "DE/Wiederholung.md",
+    "RK/Lebensweg.md",
     "Textdokument (neu).txt",
     "RK",
-    "Backlog_0924.md",
-    "RK/Lebensweg.md",
     "Untitled 1",
     "Untitled.md",
-    "DE/Wiederholung.md",
     "Untitled",
     "DE/Bruh.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
@@ -184,7 +196,6 @@
     "SEW-Prog/AlgoPerformance/target/classes/at",
     "SEW-Prog/AlgoPerformance/target/classes",
     "SEW-Prog/AlgoPerformance/target/generated-sources/annotations",
-    "SEW-Prog/AlgoPerformance/target/generated-sources",
     "EN/Internship Homework.md",
     "ITP/attachments/Gewerbe.drawio.svg",
     "EN/Englisch Matura.md",
