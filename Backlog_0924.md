@@ -19,4 +19,6 @@
 | 9    | #DE     | [[Wiederholung]]                             |                 |     |
 | -    | #RK     | Lebensweg                                    |                 |     |
 | -    | #AM     | NIX                                          |                 |     |
-|      | #EN     | 6 minute                                     |                 |     |
+|      | #EN     | 6 minute monologue                           |                 |     |
+|      | #MEDT   |                                              |                 |     |
+|      |         |                                              |                 |     |
