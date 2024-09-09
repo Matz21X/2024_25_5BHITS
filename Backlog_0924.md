@@ -16,3 +16,4 @@
 | -    | #ITP    | Rechttbuch auf Win2Day registrieren          |                 |     |
 | -    | #WIR    | Kahoot                                       |                 |     |
 | 6    | #DA     | Openmediavault                               |                 |     |
+| 9    | #DE     | [[Wiederholung]]                             |                 |     |
