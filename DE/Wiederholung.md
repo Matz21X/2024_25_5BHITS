@@ -1,17 +1,29 @@
 # Stilmittel
 #DE 
 
-| **Stilmittel**    | **Definition**                                                                  | **Beispiel**                                                          |
-| ----------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Paradoxon         | Widersprüchliche Aussage, die bei genauerer Betrachtung dennoch wahr sein kann. | „Weniger ist mehr.“                                                   |
-| Alliteration      | Wiederholung des Anfangslauts benachbarter Wörter.                              | „Milch macht müde Männer munter.“                                     |
-| Anapher           | Wiederholung eines oder mehrerer Wörter am Satzanfang.                          | „Er lacht nicht laut, er lacht lieber leise.“                         |
-| Antithese         | Gegenüberstellung gegensätzlicher Begriffe oder Gedanken.                       | „Himmel und Hölle“                                                    |
-| Ellipse           | Auslassung eines Satzteils, der zum Verständnis nicht unbedingt notwendig ist.  | „Je früher, desto besser.“                                            |
-| Euphemismus       | Beschönigende Umschreibung.                                                     | „Heimgang“ statt „Tod“                                                |
-| Ironie            | Das Gegenteil des Gesagten ist gemeint.                                         | „Das hast du ja wieder toll gemacht!“ (wenn etwas schiefgelaufen ist) |
-| Klimax            | Steigerung (häufig dreigliedrig).                                               | „Er kam, sah und siegte.“                                             |
-| Metapher          | Bildhafte Übertragung, die im übertragenen Sinne zu verstehen ist.              | „Eine Mauer des Schweigens.“                                          |
-| Oxymoron          | Verbindung zweier sich widersprechender Begriffe.                               | „bittersüß“                                                           |
-| Parallelismus     | Wiederholung gleicher syntaktischer Strukturen.                                 | „Heiß ist die Liebe, kalt ist der Schnee.“                            |
-| Rhetorische Frage | Eine Frage, auf die keine Antwort erwartet wird, weil diese offensichtlich ist. | „Wer glaubt denn das noch?“                                           |
+| **Name**                                             | **Erklärung**                                                           | **Beispiel**                                                                   |
+| ---------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| <span style="color:#00b050">Allegorie</span>         | Verbildlichung von Abstraktem                                           | Sensenmann = Tod                                                               |
+| <span style="color:#00b050">Alliteration</span>      | mehrere Wörter beginnen mit dem selben Laut                             | Fischers Fritz fischt frische....                                              |
+| <span style="color:#00b050">Anapher</span>           | Wiederholung von einem / mehreren Wörtern                               | If-Schleife! If-Schleife! If-Schleife!                                         |
+| <span style="color:#00b050">Antiklimax</span>        | Wörter / Satzteile in abnehmender Wichtigkeit angereiht                 | Kaiser, König, Edelmann...                                                     |
+| <span style="color:#00b050">Antithese</span>         | gegensätzliche Begriffe gegenüberstellen                                | liebe und hass, ...                                                            |
+| <span style="color:#00b050">Chiasmus</span>          | Überkreuzstellung von Satzgliedern                                      | Die Kunst ist lang, und Kurz ist unser Leben                                   |
+| <span style="color:#00b050">Ellipse</span>           | Auslassung eines Satzteils                                              | Kann ich ein Glas Lean "[haben]"?                                              |
+| <span style="color:#00b050">Epipher</span>           | mehrere Sätze enden mit dem selben Wort / Wörtern                       | Unser Hotel: oasch! Unser Service: oasch!                                      |
+| <span style="color:#00b050">Euphemismus</span>       | sprachliche Beschönigung                                                | Verhaltenskreativ                                                              |
+| <span style="color:#00b050">Hendiadyoin</span>       |                                                                         | Feuer und Flamme, Recht und Würde                                              |
+| <span style="color:#00b050">Hyperbel</span>          | Überteibung                                                             | <span style="color:#ff0000">Es hat sich angefühlt wie 10 Mateusz</span>        |
+| <span style="color:#00b050">Ironie</span>            | Man meint das Gegenteil der eigentlichen Aussage                        | Schöne Schrift, Herr Emmentaler                                                |
+| <span style="color:#00b050">Klimax</span>            | Sich steigernde Reihe von Wörtern / Satzteilen                          | Gut, Besser, Wieselburger                                                      |
+| <span style="color:#00b050">Metapher</span>          | Bildhafter ausdruck                                                     | Einen Frosch im Hals zu haben                                                  |
+| <span style="color:#00b050">Neologismus</span>       | Neubildung von Begriffen                                                | "Käse" für Deutschlehrer                                                       |
+| <span style="color:#00b050">Onomatopoesie</span>     | Lautmalerei, Schallnachahmung                                           | "Bumm, Knall, Schepper"                                                        |
+| <span style="color:#00b050">Oxymoron</span>          | zwei Begriffe, die sich widersprechen                                   | leises Brüllen                                                                 |
+| <span style="color:#00b050">Paradoxon</span>         | scheinbar widersprüchliche Aussage                                      | Ich weiß, dass ich nix weiß                                                    |
+| <span style="color:#00b050">Pars pro Toto</span>     | ein Teil fürs Ganze                                                     | <span style="color:#ff0000">Brüssel (EU Verwaltung), Felix (Ketchup...)</span> |
+| <span style="color:#00b050">Rhetorische Frage</span> | Frage, auf die keine Antwort erwartet wird                              | Kommt da Fischer heute zu spät?                                                |
+| <span style="color:#00b050">Tautologie</span>        | zwei Wörter die das selbe ausdrücken, aber keine neue Bedeutung bringen | nie und nimmer, der kleine Zwerg                                               |
+| <span style="color:#00b050">Vergleich</span>         |                                                                         | stark wie ein Gruca, dumm wie Brot                                             |
+
+**Alle Stilmittel: Freiwillige WH 12.9.24**
