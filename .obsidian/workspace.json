@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "28c477d968e8f2bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DE/Wiederholung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa49ace362fd4800",
             "type": "leaf",
             "state": {
@@ -46,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,8 +167,12 @@
   },
   "active": "fa49ace362fd4800",
   "lastOpenFiles": [
+    "EN/PDFs/Internship Homework.pdf",
+    "EN/PDFs",
+    "EN/Neuer Ordner",
     "Backlog_0924.md",
     "DE/Wiederholung.md",
+    "EN/Internship Homework.md",
     "RK/Lebensweg.md",
     "Textdokument (neu).txt",
     "RK",
@@ -194,9 +186,6 @@
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl/algoperformance",
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl",
     "SEW-Prog/AlgoPerformance/target/classes/at",
-    "SEW-Prog/AlgoPerformance/target/classes",
-    "SEW-Prog/AlgoPerformance/target/generated-sources/annotations",
-    "EN/Internship Homework.md",
     "ITP/attachments/Gewerbe.drawio.svg",
     "EN/Englisch Matura.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",

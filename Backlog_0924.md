@@ -18,4 +18,5 @@
 | 6    | #DA     | Openmediavault                               |                 |     |
 | 9    | #DE     | [[Wiederholung]]                             |                 |     |
 | -    | #RK     | Lebensweg                                    |                 |     |
-| -    | #AM     |                                              |                 |     |
+| -    | #AM     | NIX                                          |                 |     |
+|      | #EN     |                                              |                 |     |
