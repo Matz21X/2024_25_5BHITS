@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DE/Wiederholung.md",
+                "file": "RK/Lebensweg.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Wiederholung.md",
+                "file": "RK/Lebensweg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Wiederholung.md",
+                "file": "RK/Lebensweg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Wiederholung.md"
+                "file": "RK/Lebensweg.md"
               }
             }
           }
@@ -167,10 +167,14 @@
   },
   "active": "8d97068ccbf323af",
   "lastOpenFiles": [
+    "RK",
+    "Backlog_0924.md",
+    "RK/Lebensweg.md",
+    "Untitled 1",
+    "Untitled.md",
+    "DE/Wiederholung.md",
     "Untitled",
     "DE/Bruh.md",
-    "Backlog_0924.md",
-    "DE/Wiederholung.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
     "README.md",
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl/algoperformance/AlgoPerformance.class",
@@ -181,8 +185,6 @@
     "SEW-Prog/AlgoPerformance/target/generated-sources/annotations",
     "SEW-Prog/AlgoPerformance/target/generated-sources",
     "SEW-Prog/AlgoPerformance/target",
-    "SEW-Prog/AlgoPerformance/src/main/java/at/htlhl/algoperformance/AlgoPerformance.java",
-    "SEW-Prog/AlgoPerformance/src/test/java",
     "EN/Internship Homework.md",
     "ITP/attachments/Gewerbe.drawio.svg",
     "EN/Englisch Matura.md",
