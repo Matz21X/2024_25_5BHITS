@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Internship Homework.md"
+                "file": "Backlog_0924.md"
               }
             }
           }
@@ -165,10 +164,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fa49ace362fd4800",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
-    "Backlog_0924.md",
     "EN/Internship Homework.md",
+    "Backlog_0924.md",
     "EN/PDFs/Internship Homework.pdf",
     "EN/PDFs",
     "EN/Neuer Ordner",
