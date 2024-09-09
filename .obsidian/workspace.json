@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Internship Homework.md"
+                "file": "Backlog_0924.md"
               }
             }
           }
@@ -166,14 +165,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fa49ace362fd4800",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
+    "EN/Internship Homework.md",
     "EN/PDFs/Internship Homework.pdf",
     "EN/PDFs",
     "EN/Neuer Ordner",
     "Backlog_0924.md",
     "DE/Wiederholung.md",
-    "EN/Internship Homework.md",
     "RK/Lebensweg.md",
     "Textdokument (neu).txt",
     "RK",
@@ -186,7 +185,6 @@
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl/algoperformance/AlgoPerformance.class",
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl/algoperformance",
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl",
-    "SEW-Prog/AlgoPerformance/target/classes/at",
     "ITP/attachments/Gewerbe.drawio.svg",
     "EN/Englisch Matura.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",

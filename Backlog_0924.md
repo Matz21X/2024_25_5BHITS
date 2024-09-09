@@ -19,4 +19,4 @@
 | 9    | #DE     | [[Wiederholung]]                             |                 |     |
 | -    | #RK     | Lebensweg                                    |                 |     |
 | -    | #AM     | NIX                                          |                 |     |
-|      | #EN     |                                              |                 |     |
+|      | #EN     | 6 minute                                     |                 |     |
