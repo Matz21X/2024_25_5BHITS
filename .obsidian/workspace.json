@@ -41,22 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/Rechte und Pflichten der Mitarbeiter.md",
+                "file": "DE/Wiederholung.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ad1159c27c64020a",
+            "id": "4302d443557f266a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "852a3f9331e007f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -126,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "DE/Wiederholung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Internship Homework.md",
+                "file": "DE/Wiederholung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Internship Homework.md"
+                "file": "DE/Wiederholung.md"
               }
             }
           }
@@ -179,9 +187,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "terminal:Open terminal": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -193,8 +198,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ad1159c27c64020a",
+  "active": "711c5f55394c9032",
   "lastOpenFiles": [
+    "ITP/Rechte und Pflichten der Mitarbeiter.md",
+    "DE/Wiederholung.md",
+    "README.md",
     "Backlog_0924.md",
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl/algoperformance/AlgoPerformance.class",
     "SEW-Prog/AlgoPerformance/target/classes/at/htlhl/algoperformance",
@@ -206,7 +214,6 @@
     "SEW-Prog/AlgoPerformance/target",
     "SEW-Prog/AlgoPerformance/src/main/java/at/htlhl/algoperformance/AlgoPerformance.java",
     "SEW-Prog/AlgoPerformance/src/test/java",
-    "ITP/Rechte und Pflichten der Mitarbeiter.md",
     "EN/Internship Homework.md",
     "ITP/attachments/Gewerbe.drawio.svg",
     "EN/Englisch Matura.md",
