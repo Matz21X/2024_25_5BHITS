@@ -42,9 +42,21 @@
                 "file": "MEDT/01-Rendering Pipeline.pdf"
               }
             }
+          },
+          {
+            "id": "b3069adebf09eeb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diplomarbeit/Webservice notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDT/01-Rendering Pipeline.pdf",
+                "file": "Diplomarbeit/Webservice notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDT/01-Rendering Pipeline.pdf",
+                "file": "Diplomarbeit/Webservice notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDT/01-Rendering Pipeline.pdf"
+                "file": "Diplomarbeit/Webservice notes.md"
               }
             }
           }
@@ -175,8 +187,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3060b655ca6a2f13",
+  "active": "b3069adebf09eeb9",
   "lastOpenFiles": [
+    "MEDT/01-Rendering Pipeline.pdf",
+    "Diplomarbeit/Webservice notes.md",
+    "Diplomarbeit",
     "MEDT/01WebGL/index.html~",
     "MEDT/01WebGL/webgl-demo.js",
     "MEDT/01WebGL/index.html",
@@ -186,13 +201,9 @@
     "MEDT/01WebGL",
     "MEDT/Neuer Ordner",
     "Backlog_0924.md",
-    "MEDT/01-Rendering Pipeline.pdf",
-    "MEDT/01-Rendering Pipeline.pdf.crdownload",
-    "MEDT",
     "EN/Internship Homework.md",
     "DE/Wiederholung.md",
     "RK/Lebensweg.md",
-    "Untitled.md",
     "DE/Bruh.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
     "README.md",
