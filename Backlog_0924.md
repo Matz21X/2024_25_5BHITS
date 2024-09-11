@@ -24,5 +24,6 @@
 | 10   |         | Nicht anwesend / [[Performance Bewertung Datenstrukturen]] |                                                          |                                                          |
 | 11   | #SYT    | Servertechnik                                              |                                                          |                                                          |
 | -    | #ITSI   | Verschlüsselung                                            |                                                          |                                                          |
-|      | #WIR    | Unternehmensstrukturen                                     |                                                          |                                                          |
-|      | #NWT    |                                                            |                                                          |                                                          |
+| -    | #WIR    | Unternehmensstrukturen                                     |                                                          |                                                          |
+| -    | #NWT    | Mikrotik Frimware flashen                                  |                                                          |                                                          |
+| 12   | #DE     |                                                            |                                                          |                                                          |
