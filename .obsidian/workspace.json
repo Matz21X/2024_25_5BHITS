@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hash Funktionen.md",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hash Funktionen.md",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hash Funktionen.md"
+                "file": "Backlog_0924.md"
               }
             }
           }
@@ -189,10 +188,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ad63e3689f33656c",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
-    "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "Hash Funktionen.md",
+    "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "ITSI",
     "Backlog_0924.md",
     "SEW-Theorie",
