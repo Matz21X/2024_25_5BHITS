@@ -22,4 +22,4 @@
 |      | #EN     | 6 minute monologue                            | Create doc: Business location Austria Text by 16th Sept. | [[Vienna named worlds top city for quality of life.pdf]] |
 |      | #MEDT   | Notenbildung / Stoffbild / Rendering Pipeline |                                                          |                                                          |
 | 10   |         | Nicht anwesend                                |                                                          |                                                          |
-| 11   | #SYT    |                                               |                                                          |                                                          |
+| 11   | #SYT    | Servertechnik                                 |                                                          |                                                          |

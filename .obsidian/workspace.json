@@ -32,21 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3060b655ca6a2f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backlog_0924.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +164,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3060b655ca6a2f13",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
+    "EN/Internship Homework.md",
+    "DE/Bruh.md",
+    "Backlog_0924.md",
     "MEDT/01-Rendering Pipeline.pdf",
     "Diplomarbeit/Webservice notes.md",
     "Diplomarbeit",
@@ -190,12 +180,9 @@
     "MEDT/01WebGL/Neuer Ordner",
     "MEDT/01WebGL",
     "MEDT/Neuer Ordner",
-    "Backlog_0924.md",
-    "EN/Internship Homework.md",
     "DE/Wiederholung.md",
     "RK/Lebensweg.md",
     "Untitled.md",
-    "DE/Bruh.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
     "README.md",
     "ITP/attachments/Gewerbe.drawio.svg",
