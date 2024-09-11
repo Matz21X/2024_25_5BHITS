@@ -37,26 +37,16 @@
             "id": "3060b655ca6a2f13",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDT/01-Rendering Pipeline.pdf"
-              }
-            }
-          },
-          {
-            "id": "b3069adebf09eeb9",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Diplomarbeit/Webservice notes.md",
+                "file": "Backlog_0924.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diplomarbeit/Webservice notes.md",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diplomarbeit/Webservice notes.md",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diplomarbeit/Webservice notes.md"
+                "file": "Backlog_0924.md"
               }
             }
           }
@@ -187,7 +177,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b3069adebf09eeb9",
+  "active": "3060b655ca6a2f13",
   "lastOpenFiles": [
     "MEDT/01-Rendering Pipeline.pdf",
     "Diplomarbeit/Webservice notes.md",
@@ -204,6 +194,7 @@
     "EN/Internship Homework.md",
     "DE/Wiederholung.md",
     "RK/Lebensweg.md",
+    "Untitled.md",
     "DE/Bruh.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
     "README.md",
