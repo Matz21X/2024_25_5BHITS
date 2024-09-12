@@ -26,4 +26,6 @@
 | -    | #ITSI   | Verschlüsselung                                            |                                                          |                                                          |
 | -    | #WIR    | Unternehmensstrukturen                                     |                                                          |                                                          |
 | -    | #NWT    | Mikrotik Frimware flashen                                  |                                                          |                                                          |
-| 12   | #DE     |                                                            |                                                          |                                                          |
+| 12   | #DE     | SRDP                                                       |                                                          |                                                          |
+| -    | #RK     | Lebensweisen / Generationen                                |                                                          |                                                          |
+| -    | #ITP    |                                                            |                                                          |                                                          |
