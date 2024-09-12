@@ -56,21 +56,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ad63e3689f33656c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hash Funktionen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,13 +188,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8d97068ccbf323af",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
-    "ITP/attachments/Werk-Arbeitsvertag-20240912102408271.webp",
-    "attachments",
+    "Hash Funktionen.md",
     "Backlog_0924.md",
     "ITP/Werk-Arbeitsvertag.md",
-    "Hash Funktionen.md",
+    "ITP/attachments/Werk-Arbeitsvertag-20240912102408271.webp",
+    "attachments",
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "ITSI",
     "SEW-Theorie",
