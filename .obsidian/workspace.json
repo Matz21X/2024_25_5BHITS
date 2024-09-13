@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/Werk-Arbeitsvertag.md",
+                "file": "Diplomarbeit/Webservice notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "Diplomarbeit/Webservice notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "Diplomarbeit/Webservice notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0924.md"
+                "file": "Diplomarbeit/Webservice notes.md"
               }
             }
           }
@@ -188,10 +189,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "63227ce18f270c3e",
   "lastOpenFiles": [
-    "Hash Funktionen.md",
     "Backlog_0924.md",
+    "Hash Funktionen.md",
     "ITP/Werk-Arbeitsvertag.md",
     "ITP/attachments/Werk-Arbeitsvertag-20240912102408271.webp",
     "attachments",
