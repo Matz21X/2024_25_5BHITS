@@ -56,9 +56,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "996933ee86ada441",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "EN/Vienna named worlds top city for quality of life.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diplomarbeit/Webservice notes.md",
+                "file": "EN/Vienna named worlds top city for quality of life.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diplomarbeit/Webservice notes.md",
+                "file": "EN/Vienna named worlds top city for quality of life.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diplomarbeit/Webservice notes.md"
+                "file": "EN/Vienna named worlds top city for quality of life.pdf"
               }
             }
           }
@@ -189,21 +199,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "63227ce18f270c3e",
+  "active": "996933ee86ada441",
   "lastOpenFiles": [
     "Backlog_0924.md",
+    "Diplomarbeit/Webservice notes.md",
+    "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
+    "EN/Internship Homework.md",
     "Hash Funktionen.md",
     "ITP/Werk-Arbeitsvertag.md",
     "ITP/attachments/Werk-Arbeitsvertag-20240912102408271.webp",
     "attachments",
-    "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "ITSI",
     "SEW-Theorie",
     "Neuer Ordner",
-    "EN/Internship Homework.md",
     "DE/Bruh.md",
     "MEDT/01-Rendering Pipeline.pdf",
-    "Diplomarbeit/Webservice notes.md",
     "Diplomarbeit",
     "MEDT/01WebGL/index.html~",
     "MEDT/01WebGL/webgl-demo.js",
