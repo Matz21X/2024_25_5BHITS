@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "1f92236ad6f06009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diplomarbeit/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "63227ce18f270c3e",
             "type": "leaf",
             "state": {
@@ -57,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "Diplomarbeit/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "Diplomarbeit/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0924.md"
+                "file": "Diplomarbeit/Notes.md"
               }
             }
           }
@@ -188,12 +201,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "8d97068ccbf323af",
   "lastOpenFiles": [
+    "Backlog_0924.md",
+    "Diplomarbeit/Notes.md",
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "EN/Internship Homework.md",
     "DE/Wiederholung.md",
-    "Backlog_0924.md",
     "Diplomarbeit/Webservice notes.md",
     "EN/PDFs/Austria as a business location.pdf",
     "EN/Austria as a business location.md",
