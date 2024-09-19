@@ -31,3 +31,4 @@
 | -    | #ITP    | [[Werk-Arbeitsvertag]]                                     |                                                          |                                                          |
 | -    | #NWT    | Mikrotik Firmware flashen                                  |                                                          |                                                          |
 | 13   | #DA     | ABA Portal und so stuff                                    |                                                          |                                                          |
+| 19   | #DE     |                                                            |                                                          |                                                          |
