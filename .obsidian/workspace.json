@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Austria as a business location.md",
+                "file": "EN/Vienna named worlds top city for quality of life.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Austria as a business location.md",
+                "file": "EN/Vienna named worlds top city for quality of life.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Austria as a business location.md"
+                "file": "EN/Vienna named worlds top city for quality of life.pdf"
               }
             }
           }
@@ -211,16 +211,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b55bf81386ce0887",
+  "active": "996933ee86ada441",
   "lastOpenFiles": [
+    "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
+    "EN/Internship Homework.md",
+    "Backlog_0924.md",
+    "Diplomarbeit/Webservice notes.md",
+    "EN/Austria as a business location.md",
     "EN/PDFs/Austria as a business location.pdf",
     "EN/Neuer Ordner",
     "EN/Vienna named worlds top city for quality of life.pdf",
-    "EN/Austria as a business location.md",
-    "Backlog_0924.md",
-    "Diplomarbeit/Webservice notes.md",
-    "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
-    "EN/Internship Homework.md",
     "Hash Funktionen.md",
     "ITP/Werk-Arbeitsvertag.md",
     "ITP/attachments/Werk-Arbeitsvertag-20240912102408271.webp",
@@ -232,7 +232,6 @@
     "MEDT/01-Rendering Pipeline.pdf",
     "Diplomarbeit",
     "MEDT/01WebGL/index.html~",
-    "MEDT/01WebGL/webgl-demo.js",
     "DE/Wiederholung.md",
     "RK/Lebensweg.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
