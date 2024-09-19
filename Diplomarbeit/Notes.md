@@ -2,6 +2,8 @@
 #Dipl 
 
 **Einführung**
+Herzlich willkommen! Heute präsentiere ich unser Projekt CultConn Medienstationen – die Schnittstelle zwischen Kultur und Innovation.
+
 Unser Team vorstellen
 
 **Ausganglage**
