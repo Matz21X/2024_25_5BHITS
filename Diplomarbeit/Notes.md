@@ -18,3 +18,10 @@ Auf den Medienstationen laufen Videos zu verschiedenen Themenbereichen der Zeitg
 **Persönliche Aufgaben**
 
 Interviewer
+
+Videoschnitt
+- Rohmaterial analysieren
+- Passende stellen finden
+- Farben überarbeiten
+- usw...
+Programm: Premiere Pro
