@@ -13,7 +13,7 @@
 | <span style="color:#00b050">Epipher</span>           | mehrere Sätze enden mit dem selben Wort / Wörtern                                | Unser Hotel: oasch! Unser Service: oasch!                                      |
 | <span style="color:#00b050">Euphemismus</span>       | sprachliche Beschönigung                                                         | Verhaltenskreativ                                                              |
 | <span style="color:#00b050">Hendiadyoin</span>       |                                                                                  | Feuer und Flamme, Recht und Würde                                              |
-| <span style="color:#00b050">Hyperbel</span>          | Überteibung                                                                      | <span style="color:#ff0000">Es hat sich angefühlt wie 10 Mateusz</span>        |
+| <span style="color:#00b050">Hyperbel</span>          | Überteibung                                                                      | <span style="color:#ff0000">Es hat sich angefühlt wie 100 Mateusz</span>       |
 | <span style="color:#00b050">Ironie</span>            | Man meint das Gegenteil der eigentlichen Aussage                                 | Schöne Schrift, Herr Emmentaler                                                |
 | <span style="color:#00b050">Klimax</span>            | Sich steigernde Reihe von Wörtern / Satzteilen                                   | Gut, Besser, Wieselburger                                                      |
 | <span style="color:#00b050">Metapher</span>          | Bildhafter ausdruck                                                              | Einen Frosch im Hals zu haben                                                  |
