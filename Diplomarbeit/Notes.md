@@ -3,7 +3,7 @@
 
 **Einführung**
 
-"Herzlich willkommen! Heute präsentiere ich unser Projekt CultConn Medienstationen – die Schnittstelle zwischen Kultur und Innovation."
+"Herzlich willkommen! Heute präsentiere wir unser Projekt CultConn Medienstationen – die Schnittstelle zwischen Kultur und Innovation."
 
 Unser Team vorstellen
 
