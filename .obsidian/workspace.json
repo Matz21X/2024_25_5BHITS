@@ -78,8 +78,19 @@
                 "file": "EN/Vienna named worlds top city for quality of life.pdf"
               }
             }
+          },
+          {
+            "id": "54f0d15067ed6973",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDT/01-Rendering Pipeline.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -129,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aad4d9f7459aed23",
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "MEDT/01-Rendering Pipeline.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "MEDT/01-Rendering Pipeline.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0924.md"
+                "file": "MEDT/01-Rendering Pipeline.pdf"
               }
             }
           }
@@ -211,11 +221,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "54f0d15067ed6973",
   "lastOpenFiles": [
+    "Backlog_0924.md",
     "Diplomarbeit/Notes.md",
     "EN/Vienna named worlds top city for quality of life.pdf",
-    "Backlog_0924.md",
     "DE/Wiederholung.md",
     "conflict-files-obsidian-git.md",
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
