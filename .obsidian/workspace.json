@@ -46,18 +46,6 @@
             }
           },
           {
-            "id": "9f3ca6cd6a9f5ef4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fa49ace362fd4800",
             "type": "leaf",
             "state": {
@@ -82,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DE/Wiederholung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DE/Wiederholung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "DE/Wiederholung.md"
               }
             }
           }
@@ -213,12 +201,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9f3ca6cd6a9f5ef4",
+  "active": "63227ce18f270c3e",
   "lastOpenFiles": [
-    "DE/Wiederholung.md",
     "conflict-files-obsidian-git.md",
-    "Backlog_0924.md",
     "Diplomarbeit/Notes.md",
+    "DE/Wiederholung.md",
+    "Backlog_0924.md",
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "EN/Internship Homework.md",
     "Diplomarbeit/Webservice notes.md",
