@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aad4d9f7459aed23",
@@ -221,8 +222,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "54f0d15067ed6973",
+  "active": "8d97068ccbf323af",
   "lastOpenFiles": [
+    "MEDT/01WebGL.zip",
+    "MEDT/01WebGL/index.html~",
     "Backlog_0924.md",
     "Diplomarbeit/Notes.md",
     "EN/Vienna named worlds top city for quality of life.pdf",
@@ -243,7 +246,6 @@
     "DE/Bruh.md",
     "MEDT/01-Rendering Pipeline.pdf",
     "Diplomarbeit",
-    "MEDT/01WebGL/index.html~",
     "MEDT/01WebGL/webgl-demo.js",
     "RK/Lebensweg.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
