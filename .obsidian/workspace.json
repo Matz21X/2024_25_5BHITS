@@ -68,8 +68,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59e0da98ec3f4ed6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "EN/Vienna named worlds top city for quality of life.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -119,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aad4d9f7459aed23",
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "EN/Vienna named worlds top city for quality of life.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "EN/Vienna named worlds top city for quality of life.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0924.md"
+                "file": "EN/Vienna named worlds top city for quality of life.pdf"
               }
             }
           }
@@ -200,12 +212,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "8d97068ccbf323af",
   "lastOpenFiles": [
+    "Backlog_0924.md",
     "DE/Wiederholung.md",
     "conflict-files-obsidian-git.md",
     "Diplomarbeit/Notes.md",
-    "Backlog_0924.md",
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "EN/Internship Homework.md",
     "Diplomarbeit/Webservice notes.md",
