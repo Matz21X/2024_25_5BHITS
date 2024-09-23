@@ -1,5 +1,6 @@
 // Vertex shader program
 import {initBuffers} from "./init-buffers";
+import  {drawScene} from "./draw-scene"
 
 const vsSource = `
     attribute vec4 aVertexPosition;
@@ -17,6 +18,7 @@ const fsSource = `
   `;
 
 import { initShaderProgram } from './init-shader'
+import {drawScene} from "./draw-scene";
 
 //
 // start here
@@ -52,6 +54,8 @@ function main() {
     };
 
     const positionBuffer = initBuffers(gl)
+
+    drawScene(gl, programInfo, positionBuffer)
 
 
     // Set clear color to black, fully opaque
