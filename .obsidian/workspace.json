@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "9f3ca6cd6a9f5ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fa49ace362fd4800",
             "type": "leaf",
             "state": {
@@ -70,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/Wiederholung.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/Wiederholung.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/Wiederholung.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -201,13 +213,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "63227ce18f270c3e",
+  "active": "9f3ca6cd6a9f5ef4",
   "lastOpenFiles": [
+    "DE/Wiederholung.md",
+    "conflict-files-obsidian-git.md",
     "Backlog_0924.md",
     "Diplomarbeit/Notes.md",
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "EN/Internship Homework.md",
-    "DE/Wiederholung.md",
     "Diplomarbeit/Webservice notes.md",
     "EN/PDFs/Austria as a business location.pdf",
     "EN/Austria as a business location.md",
