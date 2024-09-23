@@ -33,3 +33,6 @@
 | 13   | #DA     | ABA Portal und so stuff                                    |                                                          |                                                          |
 | 19   | #DE     | Stilmittel                                                 |                                                          |                                                          |
 | 23   | #DE     | Der Vorleser                                               |                                                          |                                                          |
+|      | #RK     | I was ned                                                  |                                                          |                                                          |
+|      | #AM     | Matura Fragen                                              |                                                          |                                                          |
+|      | #EN     |                                                            |                                                          |                                                          |
