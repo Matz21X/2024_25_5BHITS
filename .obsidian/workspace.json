@@ -224,6 +224,7 @@
   },
   "active": "54f0d15067ed6973",
   "lastOpenFiles": [
+    "MEDT/01WebGL/draw-scene.js",
     "MEDT/01WebGL/init-buffers.js~",
     "MEDT/01WebGL/init-buffers.js",
     "MEDT/01WebGL/init-shader.js~",
@@ -245,7 +246,6 @@
     "ITP/Werk-Arbeitsvertag.md",
     "ITP/attachments/Werk-Arbeitsvertag-20240912102408271.webp",
     "attachments",
-    "ITSI",
     "DE/Bruh.md",
     "RK/Lebensweg.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",

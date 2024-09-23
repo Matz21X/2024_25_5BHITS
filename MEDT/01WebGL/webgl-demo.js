@@ -1,4 +1,6 @@
 // Vertex shader program
+import {initBuffers} from "./init-buffers";
+
 const vsSource = `
     attribute vec4 aVertexPosition;
     uniform mat4 uModelViewMatrix;
@@ -48,6 +50,8 @@ function main() {
             modelViewMatrix: gl.getUniformLocation(shaderProgram, "uModelViewMatrix"),
         },
     };
+
+    const positionBuffer = initBuffers(gl)
 
 
     // Set clear color to black, fully opaque
