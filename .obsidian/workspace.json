@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Vienna named worlds top city for quality of life.pdf",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Vienna named worlds top city for quality of life.pdf",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Vienna named worlds top city for quality of life.pdf"
+                "file": "Backlog_0924.md"
               }
             }
           }
@@ -212,12 +211,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8d97068ccbf323af",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
+    "Diplomarbeit/Notes.md",
+    "EN/Vienna named worlds top city for quality of life.pdf",
     "Backlog_0924.md",
     "DE/Wiederholung.md",
     "conflict-files-obsidian-git.md",
-    "Diplomarbeit/Notes.md",
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "EN/Internship Homework.md",
     "Diplomarbeit/Webservice notes.md",
@@ -235,7 +235,6 @@
     "Diplomarbeit",
     "MEDT/01WebGL/index.html~",
     "MEDT/01WebGL/webgl-demo.js",
-    "MEDT/01WebGL/index.html",
     "RK/Lebensweg.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
     "README.md",
