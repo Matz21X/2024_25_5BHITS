@@ -89,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDT/01-Rendering Pipeline.pdf",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MEDT/01-Rendering Pipeline.pdf",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDT/01-Rendering Pipeline.pdf"
+                "file": "Backlog_0924.md"
               }
             }
           }
@@ -222,8 +221,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "54f0d15067ed6973",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
+    "MEDT/01-Rendering Pipeline.pdf",
     "MEDT/01WebGL.zip",
     "MEDT/01WebGL/init-buffers.js~",
     "MEDT/01WebGL/draw-scene.js~",
@@ -241,7 +241,6 @@
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "EN/Internship Homework.md",
     "Diplomarbeit/Webservice notes.md",
-    "EN/PDFs/Austria as a business location.pdf",
     "EN/Austria as a business location.md",
     "Hash Funktionen.md",
     "ITP/Werk-Arbeitsvertag.md",
