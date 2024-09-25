@@ -20,6 +20,16 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "cd2b3bc82fa770b8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ITSI/00_Wiederholung.pdf"
+              }
+            }
           }
         ]
       }
@@ -155,14 +165,14 @@
   },
   "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
+    "ITSI/00_Wiederholung.pdf",
+    "Backlog_0924.md",
     "Diplomarbeit/Notes.md",
     "DE/Wiederholung.md",
     "EN/Internship Homework.md",
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "EN/Vienna named worlds top city for quality of life.pdf",
     "MEDT/01-Rendering Pipeline.pdf",
-    "ITSI/00_Wiederholung.pdf",
-    "Backlog_0924.md",
     "MEDT/01WebGL.zip",
     "MEDT/01WebGL/init-buffers.js~",
     "MEDT/01WebGL/draw-scene.js~",
