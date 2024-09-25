@@ -20,16 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "cd2b3bc82fa770b8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ITSI/00_Wiederholung.pdf"
-              }
-            }
           }
         ]
       }
@@ -81,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "right": {
     "id": "aad4d9f7459aed23",
@@ -154,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 209.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,12 +159,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "695d53182df22b7c",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
-    "NWT/802.1x+ManagedWLAN.drawio.pdf",
-    "ITSI/00_Wiederholung.pdf",
-    "Backlog_0924.md",
     "Diplomarbeit/Notes.md",
+    "EN/Austria as a business location.md",
+    "Backlog_0924.md",
+    "ITSI/00_Wiederholung.pdf",
+    "NWT/802.1x+ManagedWLAN.drawio.pdf",
     "DE/Wiederholung.md",
     "EN/Internship Homework.md",
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
@@ -186,10 +177,8 @@
     "MEDT/01WebGL/webgl-demo.js~",
     "MEDT/01WebGL/draw-scene.js",
     "MEDT/01WebGL/init-buffers.js",
-    "MEDT/01WebGL/init-shader.js~",
     "conflict-files-obsidian-git.md",
     "Diplomarbeit/Webservice notes.md",
-    "EN/Austria as a business location.md",
     "Hash Funktionen.md",
     "ITP/Werk-Arbeitsvertag.md",
     "ITP/attachments/Werk-Arbeitsvertag-20240912102408271.webp",
