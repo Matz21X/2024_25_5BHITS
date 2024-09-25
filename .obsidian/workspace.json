@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful phrases Report+Article.md",
+                "file": "EN/Useful phrases Report+Article.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful phrases Report+Article.md",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful phrases Report+Article.md",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful phrases Report+Article.md"
+                "file": "Backlog_0924.md"
               }
             }
           },
@@ -184,10 +184,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "023118bc7f394560",
+  "active": "8d97068ccbf323af",
   "lastOpenFiles": [
+    "Attachments/Useful phrases Report+Article-20240925190738957.webp",
     "Backlog_0924.md",
-    "Useful phrases Report+Article.md",
+    "EN/Useful phrases Report+Article.md",
     "README.md",
     "Diplomarbeit/Notes.md",
     "EN/Austria as a business location.md",
