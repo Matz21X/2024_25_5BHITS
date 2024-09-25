@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aad4d9f7459aed23",
@@ -141,14 +140,21 @@
                 "file": "Backlog_0924.md"
               }
             }
+          },
+          {
+            "id": "946d4ef5f4ad26b4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +169,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "695d53182df22b7c",
   "lastOpenFiles": [
+    "NWT/802.1x+ManagedWLAN.drawio.pdf",
     "ITSI/00_Wiederholung.pdf",
     "Backlog_0924.md",
     "Diplomarbeit/Notes.md",
