@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b072ba261119a398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backlog_0924.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,11 +172,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "b072ba261119a398",
   "lastOpenFiles": [
+    "README.md",
+    "Backlog_0924.md",
     "Diplomarbeit/Notes.md",
     "EN/Austria as a business location.md",
-    "Backlog_0924.md",
     "ITSI/00_Wiederholung.pdf",
     "NWT/802.1x+ManagedWLAN.drawio.pdf",
     "DE/Wiederholung.md",
@@ -185,7 +199,6 @@
     "DE/Bruh.md",
     "RK/Lebensweg.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
-    "README.md",
     "ITP/attachments/Gewerbe.drawio.svg",
     "EN/Englisch Matura.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",
