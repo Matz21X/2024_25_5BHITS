@@ -9,5 +9,5 @@ Wann habe ich ein "gutes Gewissen"?
 - Wenn ich diese Übung nicht mit ChatGPT erledige
 
 Wann habe ich ein "schlechtes Gewissen"?
-- [ ] Wenn ich Aufgaben unnötig aufschiebe
+- Wenn ich Aufgaben unnötig aufschiebe
 

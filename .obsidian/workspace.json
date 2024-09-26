@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Das Gewissen.md",
+                "file": "RK/Das Gewissen.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aad4d9f7459aed23",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Das Gewissen.md",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Das Gewissen.md",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Das Gewissen.md"
+                "file": "Backlog_0924.md"
               }
             }
           }
@@ -176,10 +174,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ea13da3fa9640a10",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
+    "RK/Das Gewissen.md",
+    "RK",
     "Backlog_0924.md",
-    "Das Gewissen.md",
     "NWT/802.1x+ManagedWLAN.drawio.pdf",
     "NWT",
     "EN/Useful phrases Report+Article.md",
@@ -194,7 +193,6 @@
     "MEDT/01WebGL/init-buffers.js~",
     "MEDT/01WebGL/draw-scene.js~",
     "MEDT/01WebGL/webgl-demo.js~",
-    "MEDT/01WebGL/draw-scene.js",
     "conflict-files-obsidian-git.md",
     "Diplomarbeit/Webservice notes.md",
     "EN/Austria as a business location.md",
