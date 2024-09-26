@@ -140,14 +140,21 @@
                 "file": "Backlog_0924.md"
               }
             }
+          },
+          {
+            "id": "7d4da7ded88b4e5c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +169,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "695d53182df22b7c",
   "lastOpenFiles": [
     "RK/Das Gewissen.md",
     "NWT/802.1x+ManagedWLAN.drawio.pdf",
