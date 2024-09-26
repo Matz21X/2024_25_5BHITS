@@ -22,24 +22,12 @@
             }
           },
           {
-            "id": "ea13da3fa9640a10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RK/Das Gewissen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd2b3bc82fa770b8",
+            "id": "cd49a87085de9357",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "ITSI/00_Wiederholung.pdf"
+                "file": "NWT/802.1x+ManagedWLAN.drawio.pdf"
               }
             }
           }
@@ -177,9 +165,9 @@
   "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
     "RK/Das Gewissen.md",
-    "RK",
-    "Backlog_0924.md",
     "NWT/802.1x+ManagedWLAN.drawio.pdf",
+    "Backlog_0924.md",
+    "RK",
     "NWT",
     "EN/Useful phrases Report+Article.md",
     "ITSI/00_Wiederholung.pdf",
