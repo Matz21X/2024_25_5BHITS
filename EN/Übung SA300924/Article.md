@@ -3,7 +3,7 @@
 
 ## How to kickstart your career - Engineering internships at SummerTech
 
-Internships are almost essential to land a job in today's business world. Most firms require work experience. Doing an engineering internship at SummerTech could be just the right thing to help jumpstart your career!
+Are you still struggling to find that internship for the summer? Do you want an interesting and exciting experience and not a boring excel-sheet crunching job? If you answered "yes" to any of these questions, an internship at SummerTech is the right thing for you!
 
-SummerTech's new engineering summer school courses offer a lot of different possibilities. Mechanical, software or biotechnical engineering, its all possible. 
+
 
