@@ -22,16 +22,19 @@
             }
           },
           {
-            "id": "cd49a87085de9357",
+            "id": "a99538f442c6c29a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "NWT/802.1x+ManagedWLAN.drawio.pdf"
+                "file": "EN/Useful phrases Report+Article.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "EN/Useful phrases Report+Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "EN/Useful phrases Report+Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0924.md"
+                "file": "EN/Useful phrases Report+Article.md"
               }
             }
           },
@@ -150,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -169,18 +172,19 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "695d53182df22b7c",
+  "active": "a99538f442c6c29a",
   "lastOpenFiles": [
+    "EN/Internship Homework.md",
+    "EN/Englisch Matura.md",
+    "Backlog_0924.md",
     "RK/Das Gewissen.md",
     "NWT/802.1x+ManagedWLAN.drawio.pdf",
-    "Backlog_0924.md",
     "RK",
     "NWT",
     "EN/Useful phrases Report+Article.md",
     "ITSI/00_Wiederholung.pdf",
     "Diplomarbeit/Notes.md",
     "DE/Wiederholung.md",
-    "EN/Internship Homework.md",
     "SEW-Theorie/Performance Bewertung Datenstrukturen.md",
     "EN/Vienna named worlds top city for quality of life.pdf",
     "MEDT/01-Rendering Pipeline.pdf",
@@ -199,7 +203,6 @@
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
     "README.md",
     "ITP/attachments/Gewerbe.drawio.svg",
-    "EN/Englisch Matura.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",
     "EN/Englisch Matura-20240904090057071.webp",
     "EN/Englisch Matura-20240904090118771.webp",
