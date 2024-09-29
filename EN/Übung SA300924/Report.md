@@ -12,4 +12,7 @@ This report is based on an online survey done in vocational schools in Austria. 
 According to the results of the survey, the top requirement for Austrian students is to earn a good salary (78%). Having interesting work is also among the top nice-to-haves with 71% of the surveyed mentioning said option. Flexibility also seems to be an important factor to the students, with 67% of them voting for this option. The most insignificant factor being positive atmosphere among the workplace, less than half of the participants picked this answer.
 
 **Explanation**
-Austrian students receive outstanding and broad education in their vocational schools. 
+Austrian students receive outstanding and broad education in their vocational schools. A part of their training is to get around in the international business world. They get prepared in every class they have to communicate like professionals in German and in English to establish contacts everywhere. It won't be a problem for them to start working abroad. They also get taught how valuable their time is and to get compensated accordingly, that is why the majority of surveyed ask for a high salary.
+
+**Suggestion**
+Based on the findings, it can be conducted that our company needs to 
