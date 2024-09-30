@@ -32,8 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "575a45be9971aa23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EN/Übung SA300924/Report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "DE/KanyeWest Rede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "DE/KanyeWest Rede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0924.md"
+                "file": "DE/KanyeWest Rede.md"
               }
             }
           },
@@ -172,11 +185,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "2c19efb606cd7cb9",
   "lastOpenFiles": [
-    "DE/KanyeWest Rede.md",
-    "Backlog_0924.md",
     "EN/Übung SA300924/Report.md",
+    "Backlog_0924.md",
+    "DE/KanyeWest Rede.md",
     "EN/Übung SA300924/Article.md",
     "EN/Übung SA300924/Useful phrases Report+Article.md",
     "EN/Übung SA300924",
