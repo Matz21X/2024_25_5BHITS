@@ -82,8 +82,8 @@ function main() {
         now *= 0.001; // convert to seconds
         deltaTime = now - then;
         then = now;
-
-        drawScene(gl, programInfo, buffers, squareRotation);
+        console.log(deltaTime)
+        drawScene(gl, programInfo, buffers, squareRotation*21);
         squareRotation += deltaTime;
 
         requestAnimationFrame(render);

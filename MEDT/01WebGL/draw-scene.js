@@ -41,7 +41,7 @@ function drawScene(gl, programInfo, buffers, squareRotation) {
         modelViewMatrix, // destination matrix
         modelViewMatrix, // matrix to rotate
         squareRotation, // amount to rotate in radians
-        [0, 0, 1],
+        [0.3, 0.5, 1],
     ); // axis to rotate arou
 
     // Tell WebGL how to pull out the positions from the position
