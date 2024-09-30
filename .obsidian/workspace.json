@@ -22,28 +22,6 @@
             }
           },
           {
-            "id": "cd49a87085de9357",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "NWT/802.1x+ManagedWLAN.drawio.pdf"
-              }
-            }
-          },
-          {
-            "id": "0f4a7029d5bbe3f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EN/Übung SA300924/Report.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c19efb606cd7cb9",
             "type": "leaf",
             "state": {
@@ -55,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DE/KanyeWest Rede.md",
+                "file": "Backlog_0924.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DE/KanyeWest Rede.md",
+                "file": "Backlog_0924.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DE/KanyeWest Rede.md"
+                "file": "Backlog_0924.md"
               }
             }
           },
@@ -195,12 +172,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8d97068ccbf323af",
+  "active": "7a6fb3efbe97931d",
   "lastOpenFiles": [
-    "EN/Übung SA300924/Report.md",
     "DE/KanyeWest Rede.md",
-    "EN/Übung SA300924/Article.md",
     "Backlog_0924.md",
+    "EN/Übung SA300924/Report.md",
+    "EN/Übung SA300924/Article.md",
     "EN/Übung SA300924/Useful phrases Report+Article.md",
     "EN/Übung SA300924",
     "RK/Das Gewissen.md",
