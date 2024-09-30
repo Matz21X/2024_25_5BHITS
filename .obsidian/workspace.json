@@ -39,14 +39,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EN/Übung SA300924/Report.md",
+                "file": "EN/Übung SA300924/Article.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EN/Übung SA300924/Report.md",
+                "file": "DE/KanyeWest Rede.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EN/Übung SA300924/Report.md",
+                "file": "DE/KanyeWest Rede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EN/Übung SA300924/Report.md"
+                "file": "DE/KanyeWest Rede.md"
               }
             }
           },
@@ -185,12 +185,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "575a45be9971aa23",
+  "active": "2c19efb606cd7cb9",
   "lastOpenFiles": [
-    "DE/KanyeWest Rede.md",
-    "EN/Übung SA300924/Report.md",
-    "Backlog_0924.md",
     "EN/Übung SA300924/Article.md",
+    "EN/Übung SA300924/Report.md",
+    "DE/KanyeWest Rede.md",
+    "Backlog_0924.md",
     "EN/Übung SA300924/Useful phrases Report+Article.md",
     "EN/Übung SA300924",
     "RK/Das Gewissen.md",
