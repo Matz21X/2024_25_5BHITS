@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1024.md",
+                "file": "SEW-Theorie/Graphentheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1024.md",
+                "file": "SEW-Theorie/Graphentheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1024.md"
+                "file": "SEW-Theorie/Graphentheorie.md"
               }
             }
           },
@@ -172,8 +173,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "582a567709b94bf1",
+  "active": "8d37c5b58158953b",
   "lastOpenFiles": [
+    "Z_Obsidian-Help/Programmiersprache.md",
+    "Z_Obsidian-Help/Java.md",
+    "Backlog_1024.md",
     "SEW-Theorie/Graphentheorie.md",
     "INSY/Pandas/teilnehmer.csv",
     "INSY/Pandas/main.py",
@@ -188,10 +192,7 @@
     "attachments/GraphGewichtet.svg",
     "attachments/Graph.svg",
     "Z_Obsidian-Help/Help-Page.md",
-    "Backlog_1024.md",
     "Z_Obsidian-Help/Syntax.md",
-    "Z_Obsidian-Help/Programmiersprache.md",
-    "Z_Obsidian-Help/Java.md",
     "Z_Obsidian-Help/Dog.png",
     "README.md",
     "Backlog_0924.md",
