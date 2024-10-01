@@ -7,3 +7,15 @@ $$V= [ v1, v2, ..., vn ]$$
 $$E= [ e1, e2, ..., en ]$$
 z.B:
 
+
+![[Graph.svg]]
+
+
+
+**Mittels Graphen kann z.B. beschrieben werden:**
+- Straßenverbindungen zwischen Städten
+- Netzwerktopologien
+- Rohrleitungssysteme
+**Anwendungsbereiche:**
+- Routenplanungssysteme (Google Maps)
+- Kürzeste Rundz
