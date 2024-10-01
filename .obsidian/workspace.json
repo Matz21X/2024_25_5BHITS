@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW-Theorie/Graphentheorie.md",
+                "file": "Backlog_1024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEW-Theorie/Graphentheorie.md",
+                "file": "Backlog_1024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEW-Theorie/Graphentheorie.md"
+                "file": "Backlog_1024.md"
               }
             }
           },
@@ -173,8 +172,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8d97068ccbf323af",
+  "active": "582a567709b94bf1",
   "lastOpenFiles": [
+    "SEW-Theorie/Graphentheorie.md",
     "INSY/Pandas/teilnehmer.csv",
     "INSY/Pandas/main.py",
     "INSY/Pandas/Pandas.iml",
@@ -185,12 +185,10 @@
     "SEW-Prog/GraphDemo/target/classes/module-info.class",
     "SEW-Prog/GraphDemo/target/generated-sources/annotations",
     "SEW-Prog/GraphDemo/target/generated-sources",
-    "SEW-Prog/GraphDemo/target/classes/at/htlhl/graphdemo/hello-view.fxml",
     "attachments/GraphGewichtet.svg",
     "attachments/Graph.svg",
     "Z_Obsidian-Help/Help-Page.md",
     "Backlog_1024.md",
-    "SEW-Theorie/Graphentheorie.md",
     "Z_Obsidian-Help/Syntax.md",
     "Z_Obsidian-Help/Programmiersprache.md",
     "Z_Obsidian-Help/Java.md",
