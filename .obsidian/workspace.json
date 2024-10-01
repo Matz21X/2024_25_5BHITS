@@ -8,41 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a6fb3efbe97931d",
+            "id": "582a567709b94bf1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "Backlog_1024.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "2c19efb606cd7cb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DE/KanyeWest Rede.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "575a45be9971aa23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EN/Übung SA300924/Report.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -75,7 +51,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -111,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "Backlog_1024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_0924.md",
+                "file": "Backlog_1024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_0924.md"
+                "file": "Backlog_1024.md"
               }
             }
           },
@@ -168,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 326.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +160,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "695d53182df22b7c",
+  "active": "8d97068ccbf323af",
   "lastOpenFiles": [
+    "README.md",
+    "Backlog_1024.md",
+    "Backlog_0924.md",
+    "EN/Übung SA300924/Report.md",
+    "DE/KanyeWest Rede.md",
     "MEDT/01WebGL/webgl-demo.js",
     "MEDT/01WebGL/init-shader.js",
     "MEDT/01WebGL/init-buffers.js",
@@ -195,11 +177,7 @@
     "MEDT/01WebGL/draw-scene.ts",
     "MEDT/01WebGL/js/draw-scene.js",
     "MEDT/01WebGL/js/init-shader.js",
-    "MEDT/01WebGL/js/webgl-demo.js",
-    "EN/Übung SA300924/Report.md",
     "EN/Übung SA300924/Article.md",
-    "DE/KanyeWest Rede.md",
-    "Backlog_0924.md",
     "EN/Übung SA300924/Useful phrases Report+Article.md",
     "RK/Das Gewissen.md",
     "EN/Useful phrases Report+Article.md",
@@ -216,7 +194,6 @@
     "DE/Bruh.md",
     "RK/Lebensweg.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
-    "README.md",
     "ITP/attachments/Gewerbe.drawio.svg",
     "EN/Englisch Matura.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",
