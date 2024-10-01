@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8d37c5b58158953b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW-Theorie/Graphentheorie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backlog_1024.md",
+                "file": "SEW-Theorie/Graphentheorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backlog_1024.md",
+                "file": "SEW-Theorie/Graphentheorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backlog_1024.md"
+                "file": "SEW-Theorie/Graphentheorie.md"
               }
             }
           },
@@ -160,8 +173,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "582a567709b94bf1",
+  "active": "8d37c5b58158953b",
   "lastOpenFiles": [
+    "Z_Obsidian-Help/Help-Page.md",
+    "Backlog_1024.md",
+    "SEW-Theorie/Graphentheorie.md",
+    "Z_Obsidian-Help/Syntax.md",
+    "Z_Obsidian-Help/Programmiersprache.md",
+    "Z_Obsidian-Help/Java.md",
+    "Z_Obsidian-Help/Dog.png",
+    "Z_Obsidian-Help",
     "SEW-Prog/ObserverPatternDemo.zip",
     "SEW-Prog/ObserverPatternDemo/target/classes/at/htlhl/observerpatterndemo/ObserverPatternDemo.class",
     "SEW-Prog/ObserverPatternDemo/target/classes/at/htlhl/observerpatterndemo/NetworkSender.class",
@@ -171,10 +192,7 @@
     "SEW-Prog/ObserverPatternDemo/target/classes/at/htlhl/observerpatterndemo",
     "SEW-Prog/ObserverPatternDemo/target/classes/at/htlhl",
     "SEW-Prog/ObserverPatternDemo/target/classes/at",
-    "SEW-Prog/ObserverPatternDemo/target/classes",
-    "SEW-Prog/ObserverPatternDemo/target",
     "README.md",
-    "Backlog_1024.md",
     "Backlog_0924.md",
     "EN/Übung SA300924/Report.md",
     "DE/KanyeWest Rede.md",
@@ -196,7 +214,6 @@
     "RK/Lebensweg.md",
     "ITP/Rechte und Pflichten der Mitarbeiter.md",
     "ITP/attachments/Gewerbe.drawio.svg",
-    "EN/Englisch Matura.md",
     "EN/attachments/Englisch Matura-20240904091224796.webp",
     "EN/Englisch Matura-20240904090057071.webp",
     "EN/Englisch Matura-20240904090118771.webp",
