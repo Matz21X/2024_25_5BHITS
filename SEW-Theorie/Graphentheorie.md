@@ -28,3 +28,12 @@ z.B:
 	- Ein gewichteter Graph ist ein Graph dessen Kanten ein Gewicht (numerischer Wert) zugewiesen ist. 
 
 ![[GraphGewichtet.svg]]
+
+
+## Zyklischer Graph
+
+Ein Zyklus ist ein Kantenzug mit unterschiedlichen Kanten bei dem Start- und Endknoten gleich sind. Ein zyklischer Graph ist ein Graph mit mindestens einem Zyklus.
+
+## Zusammenhängender Graph
+
+Ein Graph heißt zusammenhängend, wenn es von jedem Knoten einen Weg zu jedem anderen Knoten gibt
