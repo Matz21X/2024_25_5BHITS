@@ -8,3 +8,4 @@
 |      | #SEW    | [[Graphentheorie]]  |                 |     |
 |      | #INSY   | Pandas Library      |                 |     |
 |      |         |                     |                 |     |
+![[Backlog_1024-20241001170508230.webp]]
