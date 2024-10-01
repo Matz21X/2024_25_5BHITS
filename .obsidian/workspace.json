@@ -168,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +183,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "7a6fb3efbe97931d",
+  "active": "695d53182df22b7c",
   "lastOpenFiles": [
     "MEDT/01WebGL/webgl-demo.js",
     "MEDT/01WebGL/init-shader.js",
