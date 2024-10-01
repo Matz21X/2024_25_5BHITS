@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aad4d9f7459aed23",
@@ -174,8 +173,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "8d37c5b58158953b",
+  "active": "8d97068ccbf323af",
   "lastOpenFiles": [
+    "INSY/Pandas/main.py",
+    "INSY/Pandas/Pandas.iml",
+    "INSY/Pandas",
+    "INSY",
     "SEW-Prog/GraphDemo/target/classes/at/htlhl/graphdemo/HelloController.class",
     "SEW-Prog/GraphDemo/target/classes/at/htlhl/graphdemo/HelloApplication.class",
     "SEW-Prog/GraphDemo/target/classes/module-info.class",
@@ -183,10 +186,6 @@
     "SEW-Prog/GraphDemo/target/generated-sources",
     "SEW-Prog/GraphDemo/target/classes/at/htlhl/graphdemo/hello-view.fxml",
     "SEW-Prog/GraphDemo/target/classes/at/htlhl/graphdemo",
-    "SEW-Prog/GraphDemo/target/classes/at/htlhl",
-    "SEW-Prog/GraphDemo/target/classes/at",
-    "SEW-Prog/GraphDemo/target/classes",
-    "SEW-Prog/GraphDemo/target",
     "attachments/GraphGewichtet.svg",
     "attachments/Graph.svg",
     "Z_Obsidian-Help/Help-Page.md",
