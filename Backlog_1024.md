@@ -7,5 +7,5 @@
 |      | #AM     | Ich weiß nicht gant |                 |     |
 |      | #SEW    | [[Graphentheorie]]  |                 |     |
 |      | #INSY   | Pandas Library      |                 |     |
-| 2    | #SYT    |                     |                 |     |
-2
+| 2    | #SYT    | Webhosting Apache   |                 |     |
+3
