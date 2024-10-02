@@ -7,5 +7,5 @@
 |      | #AM     | Ich weiß nicht gant |                 |     |
 |      | #SEW    | [[Graphentheorie]]  |                 |     |
 |      | #INSY   | Pandas Library      |                 |     |
-|      |         |                     |                 |     |
-![[Backlog_1024-20241001170508230.webp]]
+| 2    | #SYT    |                     |                 |     |
+I
