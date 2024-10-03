@@ -11,5 +11,7 @@
 |      | #ITSI   | Mehrfaktorauthentifizierung          |                 |     |
 |      | #WIR    | SWOT-Analyse S. 228                  |                 |     |
 |      | #NWT    | Oasch Konfig [[Routerconfig Übung1]] |                 |     |
-| 3    | #DE     |                                      |                 |     |
+| 3    | #DE     | [[Zusammenfassung Übung 1]]          |                 |     |
+|      | #INSY   | Diplomarbeitszeit                    |                 |     |
+|      | #ITP    | Organisatorisches                    |                 |     |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
