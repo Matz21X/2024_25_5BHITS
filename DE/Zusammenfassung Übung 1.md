@@ -1,0 +1,4 @@
+# Gendermedizin
+#DE 
+
+Der Bericht "Männer sind halt keine Patientinnen" von Clara Hellner aus der deutschen Wochenzeitung "Die Zeit" vom 25. Februar 2019 beschäftigt sich mit der Gendermedizin, die sich mit geschlechtsspezifischen Unterschieden im Hinblick auf Diagnostik, Behandlung und Prävention befasst und dabei sowohl das biologische Geschlecht (sex) als auch das soziale Geschlecht (Gender) berücksichtigt. Lange Zeit galt der Mann in der Medizin als Standard. Der Bericht führt Gründe für diese Entwicklung an und veranschaulicht anhand von Beispielen die Notwendigkeit einer stärkeren Berücksichtigung der Gendermedizin.
