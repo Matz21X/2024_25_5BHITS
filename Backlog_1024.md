@@ -11,3 +11,5 @@
 |      | #ITSI   | Mehrfaktorauthentifizierung          |                 |     |
 |      | #WIR    | SWOT-Analyse S. 228                  |                 |     |
 |      | #NWT    | Oasch Konfig [[Routerconfig Übung1]] |                 |     |
+| 3    | #DE     |                                      |                 |     |
+#DE Freiwillige Meinungsrede bis zu den Herbstferien
