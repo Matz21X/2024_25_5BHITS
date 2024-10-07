@@ -1,50 +1,18 @@
-import { initShaderProgram } from "./initShader.ts";
-import { initBuffers } from "./initBuffer.ts";
-import { drawScene } from "./drawScene.ts";
+import { initShaderProgram } from "./initShader";
+import { initBuffers } from "./initBuffer";
+import { drawScene } from "./drawScene";
 let start = 0;
 let rotation = 0;
-// Vertex shader program
-// Vertex shader program
-const vsSource = `
-    attribute vec4 aVertexPosition;
-    attribute vec4 aVertexColor;
-
-    uniform mat4 uModelViewMatrix;
-    uniform mat4 uProjectionMatrix;
-
-    varying lowp vec4 vColor;
-
-    void main(void) {
-      gl_Position = uProjectionMatrix * uModelViewMatrix * aVertexPosition;
-      vColor = aVertexColor;
-    }
-  `;
-// Fragment shader program
-const fsSource = `
-    varying lowp vec4 vColor;
-
-    void main(void) {
-      gl_FragColor = vColor;
-    }
-  `;
-//
-// start here
-//
+const vsSource = `...`;
+const fsSource = `...`;
 function main() {
-    const canvas = document.querySelector("#glcanvas") as HTMLCanvasElement;
-    // Initialize the GL context
-    const gl = canvas.getContext("webgl") as WebGLRenderingContext;
-
-    // Only continue if WebGL is available and working
+    const canvas = document.querySelector("#glcanvas");
+    const gl = canvas.getContext("webgl");
     if (gl === null) {
         alert("Unable to initialize WebGL. Your browser or machine may not support it.");
         return;
     }
     const shaderProgram = initShaderProgram(gl, vsSource, fsSource);
-    // Collect all the info needed to use the shader program.
-    // Look up which attributes our shader program is using
-    // for aVertexPosition, aVertexColor and also
-    // look up uniform locations.
     const programInfo = {
         program: shaderProgram,
         attribLocations: {
