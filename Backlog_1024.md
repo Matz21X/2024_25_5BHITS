@@ -14,5 +14,8 @@
 | 3    | #DE     | [[Zusammenfassung Übung 1]]              |                 |     |
 |      | #INSY   | Diplomarbeitszeit                        |                 |     |
 |      | #ITP    | Organisatorisches / Rechte und Pflichten |                 |     |
-|      | #NWT    |                                          |                 |     |
+|      | #NWT    | Lustige T-Shirts schauen                 |                 |     |
+| 4    | #Dipl   | Lasercutten                              |                 |     |
+| 7    | #AM     | Suppliert - MW3                          |                 |     |
+|      | #RK     | Moralische Entwicklung                   |                 |     |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
