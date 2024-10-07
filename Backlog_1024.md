@@ -19,6 +19,6 @@
 | 7    | #AM     | Suppliert - MW3                          |                 |     |
 |      | #RK     | Moralische Entwicklung                   |                 |     |
 |      | #AM     | MW3                                      |                 |     |
-|      | #EN     | Schularbeit zurückbekommen - 2           |                 |     |
+|      | #EN     | Schularbeit zurückbekommen - 2           | S. 185 HÜ       |     |
 |      | #MEDT   |                                          |                 |     |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
