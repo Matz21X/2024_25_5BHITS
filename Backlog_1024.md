@@ -18,4 +18,5 @@
 | 4    | #Dipl   | Lasercutten                              |                 |     |
 | 7    | #AM     | Suppliert - MW3                          |                 |     |
 |      | #RK     | Moralische Entwicklung                   |                 |     |
+|      |         |                                          |                 |     |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
