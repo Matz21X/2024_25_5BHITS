@@ -1,6 +1,6 @@
-import { initShaderProgram } from "./initShader";
-import { initBuffers} from "./initBuffer";
-import { drawScene } from "./drawScene";
+import { initShaderProgram } from "./initShader.js";
+import { initBuffers} from "./initBuffer.js";
+import { drawScene } from "./drawScene.js";
 
 let start = 0;
 let rotation = 0;
