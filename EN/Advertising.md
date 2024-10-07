@@ -14,17 +14,14 @@
 ### Forms of Advertising (1 minute)
 
 1. **Traditional Advertising**:
-    
     - Print (newspapers, magazines)
     - Broadcast (radio, TV)
     - Outdoor (billboards)
 2. **Digital Advertising**:
-    
     - Social Media (Facebook, Instagram)
     - Search Engine Ads (Google Ads)
     - Influencer Marketing
 3. **Events and Promotions**:
-    
     - Sponsoring events
     - In-person promotions
 

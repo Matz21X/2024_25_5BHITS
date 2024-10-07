@@ -18,5 +18,7 @@
 | 4    | #Dipl   | Lasercutten                              |                 |     |
 | 7    | #AM     | Suppliert - MW3                          |                 |     |
 |      | #RK     | Moralische Entwicklung                   |                 |     |
-|      |         |                                          |                 |     |
+|      | #AM     | MW3                                      |                 |     |
+|      | #EN     | Schularbeit zurückbekommen - 2           |                 |     |
+|      | #MEDT   |                                          |                 |     |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
