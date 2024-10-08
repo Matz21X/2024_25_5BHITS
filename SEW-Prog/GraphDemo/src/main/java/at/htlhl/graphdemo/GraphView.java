@@ -30,12 +30,10 @@ public class GraphView extends BorderPane {
 
         // Create toolbar
         ToolBar toolBar = new ToolBar(testbutton);
+        setTop(toolBar);
 
-        doIt("Test1");
-        doIt("Test2" , "Ich", "will", "hier", "weg");
     }
 
-    private void doIt(String ... argumente){
-    }
+
 
 }
