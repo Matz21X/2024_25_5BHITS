@@ -25,7 +25,7 @@
 | ~~<span style="color:#00b050">Pars pro Toto</span>~~     | ~~ein Teil fürs Ganze~~                                                              | ~~Reisschüssel für japanische KFZ~~                                          | ~~J~~ |
 | ~~<span style="color:#00b050">Rhetorische Frage</span>~~ | ~~Frage, auf die keine Antwort erwartet wird~~                                       | ~~Kommt da Fischer heute zu spät?~~                                          | ~~J~~ |
 | <span style="color:#00b050">Tautologie</span>            | zwei Wörter die das selbe ausdrücken, aber keine neue Bedeutung bringen              | nie und nimmer, der große Gruca                                              |       |
-| ~~<span style="color:#00b050">Vergleich</span>~~             |                                                                                      | ~~stark wie ein Gruca, dumm wie Brot~~                                           |       |
+| ~~<span style="color:#00b050">Vergleich</span>~~         |                                                                                      | ~~stark wie ein Gruca, dumm wie Brot~~                                       |       |
 
 **Alle Stilmittel: Freiwillige WH 12.9.24**
 
