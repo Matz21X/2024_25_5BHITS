@@ -36,4 +36,4 @@ Ein Zyklus ist ein Kantenzug mit unterschiedlichen Kanten bei dem Start- und End
 
 ## Zusammenhängender Graph
 
-Ein Graph heißt zusammenhängend, wenn es von jedem Knoten einen Weg zu jedem anderen Knoten gibt
+Ein Graph heißt zusammenhängend, wenn es von jedem Knoten einen Weg zu jedem anderen Knoten gibt.
