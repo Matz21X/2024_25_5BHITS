@@ -13,8 +13,6 @@ public class GraphView extends BorderPane {
     private SmartGraphPanel<String, String> smartGraphPanel;
     private ContentZoomScrollPane contentZoomScrollPane;
 
-
-
     public GraphView(GraphControl graphControl) {
         SmartPlacementStrategy strategy = new SmartCircularSortedPlacementStrategy();
         smartGraphPanel = new SmartGraphPanel<>(graphControl.getGraph(), strategy);
@@ -25,7 +23,6 @@ public class GraphView extends BorderPane {
         setCenter(contentZoomScrollPane);
 
         // Create testbutton
-
         Button testbutton = new Button("Test");
 
         // Create toolbar
