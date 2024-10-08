@@ -1,7 +1,11 @@
 package at.htlhl.graphdemo;
 
 import com.brunomnsilva.smartgraph.containers.ContentZoomScrollPane;
+import com.brunomnsilva.smartgraph.graphview.SmartCircularSortedPlacementStrategy;
 import com.brunomnsilva.smartgraph.graphview.SmartGraphPanel;
+import com.brunomnsilva.smartgraph.graphview.SmartPlacementStrategy;
+import javafx.scene.control.Button;
+import javafx.scene.control.ToolBar;
 import javafx.scene.layout.BorderPane;
 
 public class GraphView extends BorderPane {
@@ -11,8 +15,27 @@ public class GraphView extends BorderPane {
 
 
 
-    public GraphView(GraphControl) {
+    public GraphView(GraphControl graphControl) {
+        SmartPlacementStrategy strategy = new SmartCircularSortedPlacementStrategy();
+        smartGraphPanel = new SmartGraphPanel<>(graphControl.getGraph(), strategy);
+        smartGraphPanel.setAutomaticLayout(true);
 
+        contentZoomScrollPane = new ContentZoomScrollPane(smartGraphPanel);
+
+        setCenter(contentZoomScrollPane);
+
+        // Create testbutton
+
+        Button testbutton = new Button("Test");
+
+        // Create toolbar
+        ToolBar toolBar = new ToolBar(testbutton);
+
+        doIt("Test1");
+        doIt("Test2" , "Ich", "will", "hier", "weg");
+    }
+
+    private void doIt(String ... argumente){
     }
 
 }
