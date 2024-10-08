@@ -21,6 +21,6 @@
 |      | #AM     | MW3                                                       |                 |     |
 |      | #EN     | Schularbeit zurückbekommen - 2 [[100 X 80 X 100 Methode]] | S. 185 HÜ       |     |
 |      | #MEDT   | Typescript arsch                                          |                 |     |
-| 8    | #WIR    |                                                           |                 |     |
-|      |         |                                                           |                 |     |
+| 8    | #WIR    | Marketing S.246                                           |                 |     |
+|      | #EN     |                                                           |                 |     |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
