@@ -23,4 +23,6 @@
 |      | #MEDT   | Typescript arsch                                          |                             |     |
 | 8    | #WIR    | Marketing S.246                                           |                             |     |
 |      | #EN     | Text 186-187                                              | S. 188 HÜ bis Montag 14.10. |     |
+|      | #SEW    | GraphDemo Projekt                                         |                             |     |
+|      | #       |                                                           |                             |     |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
