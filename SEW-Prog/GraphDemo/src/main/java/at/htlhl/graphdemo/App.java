@@ -1,7 +1,6 @@
 package at.htlhl.graphdemo;
 
 import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
@@ -17,6 +16,9 @@ public class App extends Application {
         stage.setTitle("Graph Demo");
         stage.setScene(scene);
         stage.show();
+
+        graphView.initAfterVisible();
+
     }
 
     public static void main(String[] args) {

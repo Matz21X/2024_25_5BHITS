@@ -28,9 +28,16 @@ public class GraphView extends BorderPane {
         // Create toolbar
         ToolBar toolBar = new ToolBar(testbutton);
         setTop(toolBar);
-
     }
 
+    /**
+     * IMPORTANT
+     * Should be called after scene is displayed,
+     * so we can initialize the graph visualization
+     */
+    public void initAfterVisible(){
+        smartGraphPanel.init();
+    }
 
 
 }
