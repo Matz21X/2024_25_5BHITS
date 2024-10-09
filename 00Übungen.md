@@ -45,4 +45,9 @@ Asymmetrisch: 6.3404 ms
 	• Zugriff von der IP-Range 192.168.3.0/24 auf die IP 192.168.1.10 Port tcp/22 erlauben 
 	• Alle anderen Zugriffen
 
-1. 
+```
+Any Any 192.168.1.3/32 tcp/80,tcp/443 Allow
+Any Any 192.168.1.10/32 tcp/22 Allow 
+192.168.3.0/24 Any 192.168.1.10/32 tcp/22 Allow
+Any Any Any Any Deny
+```
