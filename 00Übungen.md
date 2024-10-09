@@ -36,3 +36,13 @@ The SHA256 hashes are not the **same**
 
 Symmetrisch: 0.5712 ms
 Asymmetrisch: 6.3404 ms
+
+## Firewall
+
+• Paketfilter Regeln beschreiben: 
+	• Zugriff aus dem Internet auf die IP 192.168.1.3 auf Port tcp/80 und tcp/443 erlauben 
+	• Zugriff aus dem Internet auf die IP 192.168.1.10 auf Port tcp/22 erlauben 
+	• Zugriff von der IP-Range 192.168.3.0/24 auf die IP 192.168.1.10 Port tcp/22 erlauben 
+	• Alle anderen Zugriffen
+
+1. 
