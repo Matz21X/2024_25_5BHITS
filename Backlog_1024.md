@@ -26,9 +26,8 @@
 |      | #SEW    | GraphDemo Projekt                                         |                             |       |
 |      | #INSY   | pandas Aufgabe                                            |                             |       |
 | 9    | #SYT    | Apache Virtualhost Wiederholung / Konfiguration           |                             |       |
-|      | #ITSI   | VPN                                                       |                             |       |
+|      | #ITSI   | VPN [[00Übungen]] / [[00_Uebungen.pdf]]                   |                             |       |
 |      | #WIR    |                                                           |                             |       |
-|      |         |                                                           |                             |       |
+|      | #NWT    |                                                           |                             |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien - [ ]
 
-- [ ] 
