@@ -25,7 +25,9 @@
 |      | #EN     | Text 186-187                                              | S. 188 HÜ bis Montag 14.10. |       |
 |      | #SEW    | GraphDemo Projekt                                         |                             |       |
 |      | #INSY   | pandas Aufgabe                                            |                             |       |
-| 9    | #SYT    | Apache Virtualhost Wiederholung                           |                             |       |
+| 9    | #SYT    | Apache Virtualhost Wiederholung / Konfiguration           |                             |       |
+|      | #ITSI   | VPN                                                       |                             |       |
+|      | #WIR    |                                                           |                             |       |
 |      |         |                                                           |                             |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien - [ ]
 
