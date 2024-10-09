@@ -27,7 +27,7 @@
 |      | #INSY   | pandas Aufgabe                                            |                             |       |
 | 9    | #SYT    | Apache Virtualhost Wiederholung / Konfiguration           |                             |       |
 |      | #ITSI   | VPN [[00Übungen]] / [[00_Uebungen.pdf]]                   |                             |       |
-|      | #WIR    |                                                           |                             |       |
+|      | #WIR    | Gewerberecht S.220                                        |                             |       |
 |      | #NWT    |                                                           |                             |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien - [ ]
 
