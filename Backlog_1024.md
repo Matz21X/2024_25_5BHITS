@@ -31,7 +31,7 @@
 |      | #NWT    | Mikrotik config                                             |                             |       |
 | 10   | #DE     | StilmittelWH - Zusammenfassung [[Basisatz Zusammenfassung]] |                             |       |
 |      | #RK     |                                                             |                             |       |
-|      | #ITP    |                                                             |                             |       |
+|      | #ITP    | S. 129,132,134,136,137                                      |                             |       |
 |      | #NWT    |                                                             |                             |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien - [ ]
 
