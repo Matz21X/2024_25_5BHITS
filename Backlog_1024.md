@@ -30,7 +30,7 @@
 |      | #WIR    | Gewerberecht S.220                                          |                             |       |
 |      | #NWT    | Mikrotik config                                             |                             |       |
 | 10   | #DE     | StilmittelWH - Zusammenfassung [[Basisatz Zusammenfassung]] |                             |       |
-|      | #RK     |                                                             |                             |       |
+|      | #RK     | [[Was ist ein Mensch]]                                      |                             |       |
 |      | #ITP    | S. 129,132,134,136,137,138!!!!,139,140                      |                             |       |
 |      | #NWT    |                                                             |                             |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien - [ ]
