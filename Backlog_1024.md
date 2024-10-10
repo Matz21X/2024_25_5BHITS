@@ -28,6 +28,10 @@
 | 9    | #SYT    | Apache Virtualhost Wiederholung / Konfiguration           |                             |       |
 |      | #ITSI   | VPN [[00Übungen]] / [[00_Uebungen.pdf]]                   |                             |       |
 |      | #WIR    | Gewerberecht S.220                                        |                             |       |
+|      | #NWT    | Mikrotik config                                           |                             |       |
+| 10   | #DE     | StilmittelWH - Zusammenfassung                            |                             |       |
+|      | #RK     |                                                           |                             |       |
+|      | #ITP    |                                                           |                             |       |
 |      | #NWT    |                                                           |                             |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien - [ ]
 
