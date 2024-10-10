@@ -32,6 +32,6 @@
 | 10   | #DE     | StilmittelWH - Zusammenfassung [[Basisatz Zusammenfassung]] |                             |       |
 |      | #RK     | [[Was ist ein Mensch]]                                      |                             |       |
 |      | #ITP    | S. 129,132,134,136,137,138!!!!,139,140                      |                             |       |
-|      | #NWT    |                                                             |                             |       |
+|      | #NWT    | CapsMan gack                                                |                             |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien - [ ]
 
