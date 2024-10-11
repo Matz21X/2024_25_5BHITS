@@ -33,5 +33,6 @@
 |      | #RK     | [[Was ist ein Mensch]]                                      |                             |       |
 |      | #ITP    | S. 129,132,134,136,137,138!!!!,139,140                      |                             |       |
 |      | #NWT    | CapsMan gack                                                |                             |       |
+| 11   | #Dipl   | DA                                                          |                             |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien - [ ]
 

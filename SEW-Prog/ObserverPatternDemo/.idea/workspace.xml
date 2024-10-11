@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2b55b86d-3f20-4d98-9b17-2abb1b147dd5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/ConsoleLineReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/ConsoleLineReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/ObserverPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/ObserverPatternDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Matz21X"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Matz21X&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Matz21X/2024_25_5BHITS.git",
-    "accountId": "2e14f664-0826-4d0c-a793-085fbbd3b872"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Matz21X/2024_25_5BHITS.git&quot;,
+    &quot;accountId&quot;: &quot;2e14f664-0826-4d0c-a793-085fbbd3b872&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -49,7 +51,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ObserverPatternDemo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/matth/Documents/2024_25_5BHITS/SEW-Prog/ObserverPatternDemo",
@@ -58,14 +62,17 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="jdk-20.0.2-azul-20.0.2-f644763e9732-d86f2a68" />
+        <option value="jdk-21.0.2-azul-21.0.2-f644763e9732-456dad32" />
       </set>
     </attachedChunks>
   </component>
@@ -80,6 +87,8 @@
       <workItem from="1727168874330" duration="1373000" />
       <workItem from="1727701533540" duration="9000" />
       <workItem from="1727770378410" duration="2842000" />
+      <workItem from="1728828856859" duration="2022000" />
+      <workItem from="1728835369621" duration="2652000" />
     </task>
     <servers />
   </component>

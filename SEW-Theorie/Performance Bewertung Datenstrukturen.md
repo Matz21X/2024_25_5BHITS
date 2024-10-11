@@ -14,6 +14,9 @@ Performance der Datenstrukturen im schlechtesten Fall
 | HashMap ohne Kollision | Suchen   | O(1)     | O(1)     | O(1)     |
 Die Performance der HashMap bei Verwendung von Listen im Kollisionsfall beträgt O(n). In Java wird jedoch ab einer gewissen Anzahl von Elementen ein balancierter Baum verwendet, dadurch beträgt die Performance O(log n)
 
+Info Video: https://youtu.be/__vX2sjlpXU 
+Kürzer: https://youtu.be/g2o22C3CRfU
+
 ``` java
 package at.htlhl.algoperformance;  
   

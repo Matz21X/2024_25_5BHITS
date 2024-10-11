@@ -14,7 +14,7 @@ z.B:
 - Straßenverbindungen zwischen Städten
 - Netzwerktopologien
 - Rohrleitungssysteme
-- 
+
 **Anwendungsbereiche:**
 - Routenplanungssysteme (Google Maps)
 - Kürzeste Rundreise (Problem des Handlungsreisenden)
