@@ -2,14 +2,14 @@ package at.htlhl.algoperformance;
 
 public class AlgoPerformance {
 
-    public static final int N = 13;
+    public static final int N = 200;
 
     public AlgoPerformance() {
         constantRuntime(N);
         logarithmitcRuntime(N);
         linearRuntime(N);
-        quadraticRuntime(N);
-        exponentialRuntime(N);
+        //quadraticRuntime(N);
+        //exponentialRuntime(N);
     }
 
     /**
