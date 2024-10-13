@@ -13,6 +13,7 @@ public class ObserverPatternDemo {
         ForscherFranz forscherFranz = new ForscherFranz();
         lineReader.addLineReadListener(forscherFranz);
 
+
         lineReader.scanConsole();
 
     }

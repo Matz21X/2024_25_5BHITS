@@ -29,9 +29,12 @@ public class ConsoleLineReader {
     }
 
     private void notifyLineReadListeners(String line) {
-        for (LineReadListener lineReadListener : lineReadListeners) {
+        LineReadListener lineReadListener;
+        //for (LineReadListener lineReadListener : lineReadListeners) {
+
             lineReadListener.lineRead(line);
-        }
+       // }
+
     }
 
     public void scanConsole() {
