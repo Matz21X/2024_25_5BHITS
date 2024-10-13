@@ -2,7 +2,7 @@ package at.htlhl.algoperformance;
 
 public class AlgoPerformance {
 
-    public static final int N = 8;
+    public static final int N = 13;
 
     public AlgoPerformance() {
         constantRuntime(N);
