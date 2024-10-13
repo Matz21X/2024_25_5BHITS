@@ -10,6 +10,9 @@ public class ObserverPatternDemo {
         NetworkSender networkSender = new NetworkSender();
         lineReader.addLineReadListener(networkSender);
 
+        ForscherFranz forscherFranz = new ForscherFranz();
+        lineReader.addLineReadListener(forscherFranz);
+
         lineReader.scanConsole();
 
     }
