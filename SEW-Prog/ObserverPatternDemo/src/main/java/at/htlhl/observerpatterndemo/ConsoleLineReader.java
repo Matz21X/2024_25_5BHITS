@@ -15,6 +15,7 @@ public class ConsoleLineReader {
 
     private List<LineReadListener> lineReadListeners;
 
+
     public ConsoleLineReader() {
         lineReadListeners = new ArrayList<>();
     }

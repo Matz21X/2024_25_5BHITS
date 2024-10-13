@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b55b86d-3f20-4d98-9b17-2abb1b147dd5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/ConsoleLineReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/ConsoleLineReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Application.ObserverPatternDemo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/matth/Documents/2024_25_5BHITS/SEW-Prog/ObserverPatternDemo",
@@ -85,6 +87,7 @@
       <workItem from="1727701533540" duration="9000" />
       <workItem from="1727770378410" duration="2842000" />
       <workItem from="1728828856859" duration="2022000" />
+      <workItem from="1728835369621" duration="641000" />
     </task>
     <servers />
   </component>
