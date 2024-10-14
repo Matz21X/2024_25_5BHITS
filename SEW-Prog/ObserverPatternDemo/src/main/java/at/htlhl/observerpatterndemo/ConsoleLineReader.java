@@ -29,11 +29,9 @@ public class ConsoleLineReader {
     }
 
     private void notifyLineReadListeners(String line) {
-        LineReadListener lineReadListener;
-        //for (LineReadListener lineReadListener : lineReadListeners) {
-
+        for (LineReadListener lineReadListener : lineReadListeners) {
             lineReadListener.lineRead(line);
-       // }
+       }
 
     }
 
