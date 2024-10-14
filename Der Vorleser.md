@@ -1,1 +1,0 @@
-Hanna wird für ihre Vergangenheit verurteilt und geht in den Kerker (Sie war Wärterin im KZ). Michel fängt vielleicht eine Beziehung mit Sophie an. Wenn Hanna wieder aus dem Gefängnis freigelassen wird, hat er eine Affäre mit ihr. Glaub ich.

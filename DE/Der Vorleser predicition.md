@@ -1,0 +1,1 @@
+Hanna wird für ihre Vergangenheit verurteilt und geht in den Kerker (Sie war Wärterin im KZ). Michel verspürt keine Emotionen über ihr Urteil. 
