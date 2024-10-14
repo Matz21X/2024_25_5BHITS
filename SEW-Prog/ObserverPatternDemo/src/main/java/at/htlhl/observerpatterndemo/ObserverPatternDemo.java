@@ -2,19 +2,19 @@ package at.htlhl.observerpatterndemo;
 
 public class ObserverPatternDemo {
     public ObserverPatternDemo() {
-        ConsoleLineReader lineReader = new ConsoleLineReader();
+        Subject subject = new Subject();
 
         LineLogger lineLogger = new LineLogger();
-        lineReader.addLineReadListener(lineLogger);
+        subject.addObserver(lineLogger);
 
         NetworkSender networkSender = new NetworkSender();
-        lineReader.addLineReadListener(networkSender);
+        subject.addObserver(networkSender);
 
         ForscherFranz forscherFranz = new ForscherFranz();
-        lineReader.addLineReadListener(forscherFranz);
+        subject.addObserver(forscherFranz);
 
 
-        lineReader.scanConsole();
+        subject.scanConsole();
 
     }
     public static void main(String[] args) {

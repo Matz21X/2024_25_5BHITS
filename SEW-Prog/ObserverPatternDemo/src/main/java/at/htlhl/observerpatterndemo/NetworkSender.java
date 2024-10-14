@@ -3,7 +3,7 @@ package at.htlhl.observerpatterndemo;
 /**
  * Observer
  */
-public class NetworkSender implements LineReadListener {
+public class NetworkSender implements Observer {
 
     @Override
     public void lineRead(String text) {
