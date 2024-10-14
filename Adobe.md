@@ -1,12 +1,12 @@
 | Name     | Abgegeben? |
 | -------- | ---------- |
-| Zach     |            |
+| Zach     | J          |
 | Groiss   |            |
 | Thienel  |            |
-| Kohl     |            |
+| Kohl     | J          |
 | Göd      |            |
 | Simet    |            |
-| Hamal    |            |
-| Kaminski |            |
+| Hamal    | J          |
+| Kaminski | J          |
 | Pautsch  |            |
 | Ich      |            |
