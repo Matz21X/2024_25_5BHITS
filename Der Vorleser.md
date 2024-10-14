@@ -1,0 +1,1 @@
+Hanna wird für ihre Vergangenheit verurteilt und geht in den Kerker (Sie war Wärterin im KZ). Michel fängt vielleicht eine Beziehung mit Sophie an, wenn sie nicht gestorben sind Leben sie noch heute. 
