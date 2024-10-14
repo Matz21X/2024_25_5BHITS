@@ -8,7 +8,7 @@ public class Main {
         ForscherFranz forscherFranz = new ForscherFranz();
         subject.addObserver(forscherFranz);
 
-        NetworkSender networkSender =  new NetworkSender();
+        NetworkSender networkSender = new NetworkSender();
         subject.addObserver(networkSender);
 
         LineLogger lineLogger = new LineLogger();
