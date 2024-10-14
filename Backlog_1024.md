@@ -35,6 +35,8 @@
 |      | #NWT    | CapsMan gack                                                |                             |       |
 | 11   | #Dipl   | DA                                                          |                             |       |
 | 14   | #DE     | [[Der Vorleser predicition]]                                |                             |       |
-|      | #RK     |                                                             |                             |       |
+|      | #RK     | Schöpfungsmythen                                            |                             |       |
+|      | #AM     | Schularbeitsstoff, neue Hausübung                           |                             |       |
+|      | #EN     | Listenting, Hausübung vergleichen                           |                             |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien - [ ]
 
