@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b55b86d-3f20-4d98-9b17-2abb1b147dd5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/ConsoleLineReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/ConsoleLineReader.java" afterDir="false" />
-    </list>
+    <list default="true" id="2b55b86d-3f20-4d98-9b17-2abb1b147dd5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/matth/Documents/2024_25_5BHITS/SEW-Prog/ObserverPatternDemo",
+    "last_opened_file_path": "C:/Users/matth/Documents/2024_25_5BHITS/SEW-Prog/Ausprobieren",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,6 +85,7 @@
       <workItem from="1727770378410" duration="2842000" />
       <workItem from="1728828856859" duration="2022000" />
       <workItem from="1728835369621" duration="2916000" />
+      <workItem from="1728922963389" duration="171000" />
     </task>
     <servers />
   </component>
