@@ -3,15 +3,15 @@
 
 Performance der Datenstrukturen im schlechtesten Fall
 
-| Datenstruktur          | Zugriff  | Einfügen | Löschen  | Suchen   |
-| ---------------------- | -------- | -------- | -------- | -------- |
-| Array (List)           | O(1)     | O(1)     | O(n)     | O(n)     |
-| Sortiertes Array       | O(1)     | O(n)     | O(n)     | O(log n) |
-| LinkedList             | O(n)     | O(1)     | O(n)     | O(n)     |
-| Baum                   | O(n)     | O(1)     | O(n)     | O(n)     |
-| Balancierter Baum      | O(log n) | O(log n) | O(log n) | O(log n) |
-| HashMap                | Suchen   | O(log n) | O(log n) | O(log n) |
-| HashMap ohne Kollision | Suchen   | O(1)     | O(1)     | O(1)     |
+| Datenstruktur          | Zugriff    | Einfügen | Löschen  | Suchen   |
+| ---------------------- | ---------- | -------- | -------- | -------- |
+| Array (List)           | O(1)       | O(1)     | O(n)     | O(n)     |
+| Sortiertes Array       | O(1)       | O(n)     | O(n)     | O(log n) |
+| LinkedList             | O(n)       | O(1)     | O(n)     | O(n)     |
+| Baum                   | O(n)       | O(1)     | O(n)     | O(n)     |
+| Balancierter Baum      | O(log n)   | O(log n) | O(log n) | O(log n) |
+| HashMap                | - (Suchen) | O(log n) | O(log n) | O(log n) |
+| HashMap ohne Kollision | - (Suchen) | O(1)     | O(1)     | O(1)     |
 Die Performance der HashMap bei Verwendung von Listen im Kollisionsfall beträgt O(n). In Java wird jedoch ab einer gewissen Anzahl von Elementen ein balancierter Baum verwendet, dadurch beträgt die Performance O(log n)
 
 Info Video: https://youtu.be/__vX2sjlpXU 
@@ -35,7 +35,7 @@ public class AlgoPerformance {
     /**  
      * The code takes a constant amount time to run.     * It's not dependent on the size on n.     *     * @param n input  
      */    private void constantRuntime(int n) {  
-        System.out.println("Constant Runtime 0(1)2");  
+        System.out.println("Constant Runtime 0(1)");  
         System.out.println("    The input is: " + n);  
         System.out.println();  
     }  
