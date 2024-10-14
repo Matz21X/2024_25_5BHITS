@@ -1,5 +1,5 @@
 package at.htlhl;
 
 public interface Observer {
-    public String
+    public void lineRead (String text);
 }
