@@ -34,6 +34,7 @@
 |      | #ITP    | S. 129,132,134,136,137,138!!!!,139,140                      |                             |       |
 |      | #NWT    | CapsMan gack                                                |                             |       |
 | 11   | #Dipl   | DA                                                          |                             |       |
-| 14   | #DE     | [[Der Vorleser predicition]]                                            |                             |       |
+| 14   | #DE     | [[Der Vorleser predicition]]                                |                             |       |
+|      | #RK     |                                                             |                             |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien - [ ]
 
