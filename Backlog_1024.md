@@ -38,5 +38,7 @@
 |      | #RK     | Schöpfungsmythen                                            |                                       |       |
 |      | #AM     | Schularbeitsstoff, neue Hausübung                           |                                       |       |
 |      | #EN     | Listenting, Hausübung vergleichen                           | HW: Portfolio: Research on a gap year |       |
+|      | #MEDT   | Cross-Platform Apps                                         |                                       |       |
+| 15   | #WIR    |                                                             |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
