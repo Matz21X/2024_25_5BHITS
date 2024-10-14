@@ -6,7 +6,7 @@ Performance der Datenstrukturen im schlechtesten Fall
 | Datenstruktur          | Zugriff    | Einfügen | Löschen  | Suchen   |
 | ---------------------- | ---------- | -------- | -------- | -------- |
 | Array (List)           | O(1)       | O(1)     | O(n)     | O(n)     |
-| Sortiertes Array       | O(1)       | O(n)     | O(n)     | O(log n) |
+| Sortiertes Array       | O(1)       | O(n)     | O(log n) | O(log n) |
 | LinkedList             | O(n)       | O(1)     | O(n)     | O(n)     |
 | Baum                   | O(n)       | O(1)     | O(n)     | O(n)     |
 | Balancierter Baum      | O(log n)   | O(log n) | O(log n) | O(log n) |
