@@ -4,7 +4,7 @@ package at.htlhl.observerpatterndemo;
  * Observer interface
  */
 
-public interface LineReadListener {
+public interface Observer {
     public void lineRead(String text);
 }
 
