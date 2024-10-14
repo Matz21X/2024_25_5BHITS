@@ -7,7 +7,6 @@ import java.util.Scanner;
 /**
  * This class is responsible for reading input (line wise) from
  * the console
- *
  * <b>Subjects</b>
  */
 
