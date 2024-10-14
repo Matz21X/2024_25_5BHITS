@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b55b86d-3f20-4d98-9b17-2abb1b147dd5" name="Changes" comment="Whoops">
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="2b55b86d-3f20-4d98-9b17-2abb1b147dd5" name="Changes" comment="Whoops" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +107,7 @@
       <workItem from="1728828856859" duration="2022000" />
       <workItem from="1728835369621" duration="2916000" />
       <workItem from="1728922963389" duration="171000" />
-      <workItem from="1728924320017" duration="166000" />
+      <workItem from="1728924320017" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="Whoops">
       <option name="closed" value="true" />
