@@ -5,7 +5,7 @@
 | Thienel  | J          |
 | Kohl     | J          |
 | Göd      | J          |
-| Simet    |            |
+| Simet    | J          |
 | Hamal    | J          |
 | Kaminski | J          |
 | Pautsch  | J          |
