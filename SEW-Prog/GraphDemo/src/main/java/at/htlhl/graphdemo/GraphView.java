@@ -4,6 +4,8 @@ import com.brunomnsilva.smartgraph.containers.ContentZoomScrollPane;
 import com.brunomnsilva.smartgraph.graphview.SmartCircularSortedPlacementStrategy;
 import com.brunomnsilva.smartgraph.graphview.SmartGraphPanel;
 import com.brunomnsilva.smartgraph.graphview.SmartPlacementStrategy;
+import javafx.event.ActionEvent;
+import javafx.event.EventHandler;
 import javafx.scene.control.Button;
 import javafx.scene.control.ToolBar;
 import javafx.scene.layout.BorderPane;
@@ -24,6 +26,7 @@ public class GraphView extends BorderPane {
 
         // Create testbutton
         Button testbutton = new Button("Test");
+        testbutton.setOnAction(new TestEventHandler());
 
         // Create toolbar
         ToolBar toolBar = new ToolBar(testbutton);
@@ -37,6 +40,13 @@ public class GraphView extends BorderPane {
      */
     public void initAfterVisible(){
         smartGraphPanel.init();
+    }
+
+    private class TestEventHandler implements EventHandler<ActionEvent>{
+        @Override
+        public void handle(ActionEvent actionEvent) {
+            System.out.println("Test clicked ..." + actionEvent.getSource());
+        }
     }
 
 
