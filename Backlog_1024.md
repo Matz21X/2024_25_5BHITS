@@ -39,6 +39,6 @@
 |      | #AM     | Schularbeitsstoff, neue Hausübung                           |                                       |       |
 |      | #EN     | Listenting, Hausübung vergleichen                           | HW: Portfolio: Research on a gap year |       |
 |      | #MEDT   | Cross-Platform Apps                                         |                                       |       |
-| 15   | #WIR    |                                                             |                                       |       |
+| 15   | #WIR    | S.222-223 freie / reglementierte Gewerbe                    |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 

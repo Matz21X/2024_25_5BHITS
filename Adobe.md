@@ -9,4 +9,4 @@
 | Hamal    | J          |
 | Kaminski | J          |
 | Pautsch  | J          |
-| Ich      |            |
+| Ich      | J          |
