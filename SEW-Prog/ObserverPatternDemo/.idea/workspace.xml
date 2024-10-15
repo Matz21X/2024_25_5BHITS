@@ -33,6 +33,9 @@
     &quot;accountId&quot;: &quot;2e14f664-0826-4d0c-a793-085fbbd3b872&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/at/htlhl/observerpatterndemo/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -108,7 +111,7 @@
       <workItem from="1728893636121" duration="1495000" />
       <workItem from="1728895582484" duration="324000" />
       <workItem from="1728903700564" duration="3766000" />
-      <workItem from="1728973128839" duration="303000" />
+      <workItem from="1728973128839" duration="1184000" />
     </task>
     <servers />
   </component>
