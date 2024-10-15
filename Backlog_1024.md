@@ -41,6 +41,6 @@
 |      | #MEDT   | Cross-Platform Apps                                         |                                       |       |
 | 15   | #WIR    | S.222-224 freie / reglementierte Gewerbe                    |                                       |       |
 |      | #AM     | Joa GeoGebra stuff                                          |                                       |       |
-|      | #SEW    | Test                                                        |                                       |       |
+|      | #SEW    | Test / Graphdemo                                            |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
