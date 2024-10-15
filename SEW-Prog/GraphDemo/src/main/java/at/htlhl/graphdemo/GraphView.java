@@ -45,7 +45,7 @@ public class GraphView extends BorderPane {
     private class TestEventHandler implements EventHandler<ActionEvent>{
         @Override
         public void handle(ActionEvent actionEvent) {
-            System.out.println("Test clicked ..." + actionEvent.getSource());
+            smartGraphPanel.getStylableVertex("C").setStyleClass("htlVertex");
         }
     }
 

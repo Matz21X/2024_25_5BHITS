@@ -73,6 +73,13 @@ This should help you understand which styles you can apply.
     -fx-fill: yellowgreen;
 }
 
+.htlVertex {
+    -fx-stroke-width: 4;
+    -fx-stroke: #ff0000;
+    -fx-stroke-type: inside; /* you should keep this if using arrows */
+    -fx-fill: #0000ff;
+}
+
 /* Custom edge class. The same above logic applies to edges.
  */
 .myEdge {
