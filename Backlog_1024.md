@@ -40,6 +40,7 @@
 |      | #EN     | Listenting, Hausübung vergleichen                           | HW: Portfolio: Research on a gap year |       |
 |      | #MEDT   | Cross-Platform Apps                                         |                                       |       |
 | 15   | #WIR    | S.222-224 freie / reglementierte Gewerbe                    |                                       |       |
-|      | #AM     |                                                             |                                       |       |
+|      | #AM     | Joa GeoGebra stuff                                          |                                       |       |
+|      | #SEW    | Test                                                        |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
