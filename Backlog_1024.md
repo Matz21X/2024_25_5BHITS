@@ -42,5 +42,7 @@
 | 15   | #WIR    | S.222-224 freie / reglementierte Gewerbe                    |                                       |       |
 |      | #AM     | Joa GeoGebra stuff                                          |                                       |       |
 |      | #SEW    | Test / Graphdemo                                            |                                       |       |
+|      | #INSY   | Pandas Aufgabe2                                             |                                       |       |
+| 16   | #SYT    |                                                             |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
