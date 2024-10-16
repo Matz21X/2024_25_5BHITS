@@ -43,6 +43,7 @@
 |      | #AM     | Joa GeoGebra stuff                                          |                                       |       |
 |      | #SEW    | Test / Graphdemo                                            |                                       |       |
 |      | #INSY   | Pandas Aufgabe2                                             |                                       |       |
-| 16   | #SYT    |                                                             |                                       |       |
+| 16   | #SYT    | ENDLICH SERVERTECHNIK RAHHH                                 |                                       |       |
+|      | #ITSI   |                                                             |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
