@@ -44,6 +44,8 @@
 |      | #SEW    | Test / Graphdemo                                            |                                       |       |
 |      | #INSY   | Pandas Aufgabe2                                             |                                       |       |
 | 16   | #SYT    | ENDLICH SERVERTECHNIK RAHHH                                 |                                       |       |
-|      | #ITSI   |                                                             |                                       |       |
+|      | #ITSI   | [[01_PKI.pdf]]                                              |                                       |       |
+|      | #NWT    | [[Routerconfig IDRAC]], LDAP                                |                                       |       |
+|      |         |                                                             |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
