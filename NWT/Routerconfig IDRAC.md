@@ -1,6 +1,8 @@
 # IDRAC
 #NWT 
 
+srv-hit-02.htl-hl.ac.at
+
 ```
 /interface bridge
 add name=br
