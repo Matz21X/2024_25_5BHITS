@@ -26,4 +26,9 @@ Well known ports: 389, 636 (secure)
 - Search
 - Modify
 - Delete
-- 
+- Add
+
+**objectClass**
+Wie ein Objekttyp - definiert z.B. Attribute
+
+CN = Canonical name
