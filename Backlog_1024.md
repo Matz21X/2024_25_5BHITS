@@ -46,6 +46,6 @@
 | 16   | #SYT    | ENDLICH SERVERTECHNIK RAHHH                                 |                                       |       |
 |      | #ITSI   | [[01_PKI.pdf]]                                              |                                       |       |
 |      | #NWT    | [[Routerconfig IDRAC]], LDAP                                |                                       |       |
-|      |         |                                                             |                                       |       |
+| 17   | #RK     |                                                             |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
