@@ -2,6 +2,7 @@
 #NWT 
 
 Well known ports: 389, 636 (secure)
+CN = Canonical name
 
 **Podukte:**
 - MS Active Directory
@@ -19,6 +20,10 @@ Well known ports: 389, 636 (secure)
 - o=HTL
 - dc=htl-hl, dc=ac, dc=at
 
+**Schema:**
+Legt fest wie die Struktur aufgebaut ist
+
+
 **Ou Organisational unit:**
 - ou=People, dc=htl-hl, dc=ac, dc=at
 
@@ -30,5 +35,3 @@ Well known ports: 389, 636 (secure)
 
 **objectClass**
 Wie ein Objekttyp - definiert z.B. Attribute
-
-CN = Canonical name
