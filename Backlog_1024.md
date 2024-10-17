@@ -47,6 +47,7 @@
 |      | #ITSI   | [[01_PKI.pdf]]                                              |                                       |       |
 |      | #NWT    | [[Routerconfig IDRAC]], LDAP                                |                                       |       |
 | 17   | #RK     | [[Biblische Schöpfungserzählung]]                           |                                       |       |
-|      | #ITP    |                                                             |                                       |       |
+|      | #ITP    | S.146 Beendigung des Arbeitsvertrags                        |                                       |       |
+|      | #NWT    | Directory Dienste                                           |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
