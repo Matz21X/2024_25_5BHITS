@@ -48,6 +48,6 @@
 |      | #NWT    | [[Routerconfig IDRAC]], LDAP                                |                                       |       |
 | 17   | #RK     | [[Biblische Schöpfungserzählung]]                           |                                       |       |
 |      | #ITP    | S.146 Beendigung des Arbeitsvertrags                        |                                       |       |
-|      | #NWT    | Directory Dienste                                           |                                       |       |
+|      | #NWT    | [[Directory Dienste]]                                       |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
