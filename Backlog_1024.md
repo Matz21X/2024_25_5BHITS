@@ -51,6 +51,6 @@
 |      | #NWT    | [[Directory Dienste]]                                       |                                       |       |
 | 18   | #Dipl   | Interview Leidenfrost Johann                                |                                       |       |
 | 21   | #DE     | Der Käse lügt, [[Fremdwörter]]                              |                                       |       |
-|      | #RK     |                                                             |                                       |       |
+|      | #RK     | Adam, Eva Apfel ding                                        |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
