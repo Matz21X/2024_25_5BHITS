@@ -50,7 +50,7 @@
 |      | #ITP    | S.146 Beendigung des Arbeitsvertrags                        |                                       |       |
 |      | #NWT    | [[Directory Dienste]]                                       |                                       |       |
 | 18   | #Dipl   | Interview Leidenfrost Johann                                |                                       |       |
-| 21   | #DE     | Der Käse lügt                                               |                                       |       |
+| 21   | #DE     | Der Käse lügt, [[Fremdwörter]]                              |                                       |       |
 |      | #RK     |                                                             |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
