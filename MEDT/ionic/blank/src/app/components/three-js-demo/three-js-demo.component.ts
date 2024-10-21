@@ -1,14 +1,27 @@
-import { Component, OnInit } from '@angular/core';
+import {AfterViewInit, Component, OnInit} from '@angular/core';
+import * as THREE from 'three';
+
 
 @Component({
   selector: 'app-three-js-demo',
   templateUrl: './three-js-demo.component.html',
   styleUrls: ['./three-js-demo.component.scss'],
 })
-export class ThreeJsDemoComponent  implements OnInit {
+export class ThreeJsDemoComponent implements OnInit, AfterViewInit {
 
-  constructor() { }
+  constructor() {
+  }
 
-  ngOnInit() {}
+  ngOnInit() {
+  }
+
+  ngAfterViewInit() {
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+
+    const renderer = new THREE.WebGLRenderer();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.body.appendChild(renderer.domElement);
+  }
 
 }
