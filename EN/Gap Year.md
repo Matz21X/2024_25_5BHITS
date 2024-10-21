@@ -49,7 +49,7 @@ approval
 recognition
 trust
 expectation
-money? (not)
+money? (not) (bullshit)
 -
 job enrichment
 good comms workers x bosses

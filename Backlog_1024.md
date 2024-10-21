@@ -53,5 +53,7 @@
 | 21   | #DE     | Der Käse lügt, [[Fremdwörter]]                              |                                       |              |
 |      | #RK     | Adam, Eva Apfel ding                                        |                                       |              |
 |      | #AM     | Schularbeit durchbesprochen,                                |                                       |              |
+|      | #EN     | [[Gap Year]]                                                |                                       |              |
+|      | #MEDT   |                                                             |                                       |              |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
