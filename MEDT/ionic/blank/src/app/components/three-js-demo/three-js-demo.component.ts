@@ -1,4 +1,4 @@
-import {AfterViewInit, Component, OnInit} from '@angular/core';
+import {AfterViewInit, Component, ElementRef, OnInit, ViewChild} from '@angular/core';
 import * as THREE from 'three';
 
 
@@ -9,19 +9,27 @@ import * as THREE from 'three';
 })
 export class ThreeJsDemoComponent implements OnInit, AfterViewInit {
 
+  @ViewChild('threejs')
+  canvasRef!: ElementRef<HTMLCanvasElement>;
+  scene!: THREE.Scene;
+  camera!: THREE.PerspectiveCamera;
+  renderer!: THREE.WebGLRenderer;
+
   constructor() {
   }
 
-  ngOnInit() {
-  }
+  ngOnInit(): void {
+        throw new Error('Method not implemented.');
+    }
+
 
   ngAfterViewInit() {
-    const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    this.scene = new THREE.Scene();
+    this.camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
 
-    const renderer = new THREE.WebGLRenderer();
-    renderer.setSize(window.innerWidth, window.innerHeight);
-    document.body.appendChild(renderer.domElement);
+    this.renderer = new THREE.WebGLRenderer({canvas: this.canvasRef.nativeElement});
+    this.renderer.setSize(window.innerWidth, window.innerHeight);
+    //document.body.appendChild(this.renderer.domElement);
   }
 
 }
