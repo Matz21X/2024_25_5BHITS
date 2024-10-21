@@ -43,6 +43,18 @@ A gap year is typically a period, usually lasting a year, taken by students or p
 
 
 Tools:
-trust  - expectation
-money
-Job 
+motivation
+praise
+approval
+recognition
+trust
+expectation
+money? (not)
+-
+job enrichment
+good comms workers x bosses
+
+
+
+
+
