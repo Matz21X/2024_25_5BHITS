@@ -30,6 +30,13 @@ export class ThreeJsDemoComponent implements OnInit, AfterViewInit {
     this.renderer = new THREE.WebGLRenderer({canvas: this.canvasRef.nativeElement});
     this.renderer.setSize(window.innerWidth, window.innerHeight);
     //document.body.appendChild(this.renderer.domElement);
+
+    const geometry = new THREE.BoxGeometry( 1, 1, 1 );
+    const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+    const cube = new THREE.Mesh( geometry, material );
+    this.scene.add( cube );
+    this.camera.position.z = 5;
+    
   }
 
 }
