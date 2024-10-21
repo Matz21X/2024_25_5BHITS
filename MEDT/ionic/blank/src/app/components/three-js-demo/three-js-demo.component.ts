@@ -14,6 +14,7 @@ export class ThreeJsDemoComponent implements OnInit, AfterViewInit {
   scene!: THREE.Scene;
   camera!: THREE.PerspectiveCamera;
   renderer!: THREE.WebGLRenderer;
+  cube!: THREE.Mesh<THREE.BoxGeometry, THREE.MeshBasicMaterial>;
 
   constructor() {
   }
@@ -32,11 +33,18 @@ export class ThreeJsDemoComponent implements OnInit, AfterViewInit {
     //document.body.appendChild(this.renderer.domElement);
 
     const geometry = new THREE.BoxGeometry( 1, 1, 1 );
-    const material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
-    const cube = new THREE.Mesh( geometry, material );
-    this.scene.add( cube );
+    const material = new THREE.MeshBasicMaterial( { color: 0x55a7ce } );
+    this.cube = new THREE.Mesh( geometry, material );
+    this.scene.add( this.cube );
     this.camera.position.z = 5;
-    
+    this.renderer.setAnimationLoop(() => this.animate() );
   }
+
+  animate() {
+    this.cube.rotation.x += 0.01;
+    this.cube.rotation.y += 0.01;
+    this.renderer.render( this.scene, this.camera );
+  }
+
 
 }
