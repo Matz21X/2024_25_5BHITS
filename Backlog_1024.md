@@ -52,5 +52,6 @@
 | 18   | #Dipl   | Interview Leidenfrost Johann                                |                                       |       |
 | 21   | #DE     | Der Käse lügt, [[Fremdwörter]]                              |                                       |       |
 |      | #RK     | Adam, Eva Apfel ding                                        |                                       |       |
+|      | #AM     | Schularbeit durchbesprochen,                                |                                       |       |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
