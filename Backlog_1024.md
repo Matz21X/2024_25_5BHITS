@@ -55,5 +55,9 @@
 |      | #AM     | Schularbeit durchbesprochen,                                       |                                       |              |
 |      | #EN     | [[Gap Year]]                                                       |                                       |              |
 |      | #MEDT   | Ionic Cube ding, HW: slider einbauen für die Würfelgeschwindigkeit |                                       |              |
+| 22   | #WIR    | Zugverspätung                                                      |                                       |              |
+|      | #AM     | Schularbeit                                                        |                                       |              |
+|      | #SEW    | Test zurück bekommen                                               |                                       |              |
+|      | #INSY   |                                                                    |                                       |              |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
