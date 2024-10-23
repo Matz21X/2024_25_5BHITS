@@ -1,4 +1,4 @@
-# Directory Dienste
+# Directory Dienste (LDAP)
 #NWT 
 
 Well known ports: 389, 636 (secure)
