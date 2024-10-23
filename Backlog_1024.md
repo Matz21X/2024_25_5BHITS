@@ -58,6 +58,7 @@
 | 22   | #WIR    | Zugverspätung                                                      |                                       |              |
 |      | #AM     | Schularbeit                                                        |                                       |              |
 |      | #SEW    | Test zurück bekommen                                               |                                       |              |
-|      | #INSY   |                                                                    |                                       |              |
+|      | #INSY   | Neuronale Netze                                                    |                                       |              |
+| 23   | #NWT    |                                                                    |                                       |              |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
