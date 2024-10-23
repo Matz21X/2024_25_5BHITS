@@ -60,6 +60,7 @@
 |      | #SEW    | Test zurück bekommen                                               |                                       |              |
 |      | #INSY   | Neuronale Netze                                                    |                                       |              |
 | 23   | #NWT    | Bash oasch                                                         |                                       |              |
-|      | #ITSI   |                                                                    |                                       |              |
+|      | #ITSI   | [[01_PKI.pdf]]<br>                                                 |                                       |              |
+|      |         |                                                                    |                                       |              |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
