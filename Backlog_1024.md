@@ -59,6 +59,7 @@
 |      | #AM     | Schularbeit                                                        |                                       |              |
 |      | #SEW    | Test zurück bekommen                                               |                                       |              |
 |      | #INSY   | Neuronale Netze                                                    |                                       |              |
-| 23   | #NWT    |                                                                    |                                       |              |
+| 23   | #NWT    | Bash oasch                                                         |                                       |              |
+|      | #ITSI   |                                                                    |                                       |              |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
