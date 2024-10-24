@@ -66,6 +66,6 @@
 | 24   | #DE     | Kommentare lesen                                                   |                                       |              |
 |      | #RK     | Short-Horror Movie, Black Stories                                  |                                       |              |
 |      | #EN     | Printer-fooling, [[Motivating high-calibre staff.pdf]]             |                                       |              |
-|      | #NWT    |                                                                    |                                       |              |
+|      | #NWT    | Proxmox Debian install                                             |                                       |              |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
