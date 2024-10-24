@@ -62,6 +62,10 @@
 | 23   | #SYT    | Bash oasch                                                         |                                       |              |
 |      | #ITSI   | [[01_PKI.pdf]]<br>                                                 |                                       |              |
 |      | #WIR    | Uhh 🤔                                                             |                                       |              |
-|      | #NWT    | Ich war nicht da                                                   |                                       |              |
+|      | #NWT    | Ich war nicht da 😊                                                |                                       |              |
+| 24   | #DE     | Kommentare lesen                                                   |                                       |              |
+|      | #RK     | Short-Horror Movie, Black Stories                                  |                                       |              |
+|      | #EN     | Printer-fooling, [[Motivating high-calibre staff.pdf]]             |                                       |              |
+|      | #NWT    |                                                                    |                                       |              |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
