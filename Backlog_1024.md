@@ -59,8 +59,9 @@
 |      | #AM     | Schularbeit                                                        |                                       |              |
 |      | #SEW    | Test zurück bekommen                                               |                                       |              |
 |      | #INSY   | Neuronale Netze                                                    |                                       |              |
-| 23   | #NWT    | Bash oasch                                                         |                                       |              |
+| 23   | #SYT    | Bash oasch                                                         |                                       |              |
 |      | #ITSI   | [[01_PKI.pdf]]<br>                                                 |                                       |              |
-|      |         |                                                                    |                                       |              |
+|      | #WIR    | Uhh 🤔                                                             |                                       |              |
+|      | #NWT    | Ich war nicht da                                                   |                                       |              |
 #DE Freiwillige Meinungsrede bis zu den Herbstferien
 
