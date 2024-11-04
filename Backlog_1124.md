@@ -7,3 +7,4 @@
 |      | #RK     | [[Kreationismus]] |                 |     |
 |      |         |                   |                 |     |
 |      |         |                   |                 |     |
+ionic generate component components/heightmap
