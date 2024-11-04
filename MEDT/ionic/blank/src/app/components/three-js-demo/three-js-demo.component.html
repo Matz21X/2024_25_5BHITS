@@ -1,5 +1,10 @@
-<p>
-  three-js-demo works!
-</p>
-
-<canvas #threejs> </canvas>
+<ion-content><p>Three-js-demo works!</p>
+  <ion-item>
+    <ion-label>Geschwindigkeit:</ion-label>
+    <ion-range [(ngModel)]="rotationSpeed" min="0" max="0.5" step="0.001">
+      <ion-label slot="start">0</ion-label>
+      <ion-label slot="end">0.5</ion-label>
+    </ion-range>
+  </ion-item>
+  <canvas #threejs></canvas>
+</ion-content>
