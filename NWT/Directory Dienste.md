@@ -23,7 +23,6 @@ CN = Canonical name
 **Schema:**
 Legt fest wie die Struktur aufgebaut ist
 
-
 **Ou Organisational unit:**
 - ou=People, dc=htl-hl, dc=ac, dc=at
 

@@ -8,8 +8,9 @@
 |      | #AM     |                                    |                 |     |
 |      | #EN     |                                    |                 |     |
 |      | #MEDT   |                                    |                 |     |
-| 6    | #WIR    | Testvorbereitung                   |                 |     |
+| 5    | #WIR    | Testvorbereitung                   |                 |     |
 |      | #AM     | Neue HÜ                            |                 |     |
 |      | #SEW    | GraphDemo Doubleclick / Rightclick |                 |     |
-|      | #INSY   |                                    |                 |     |
+|      | #INSY   | Aufgabe Machine learning           |                 |     |
+| 6    | #SYT    |                                    |                 |     |
 ionic generate component components/heightmap
