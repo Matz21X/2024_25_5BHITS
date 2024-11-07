@@ -20,4 +20,9 @@
 ### Aufgabe 3:
 
 **A:**
-	Meiner Meinung nach hat Gott in der Biologie, Astrophysik und anderen Nat
+	Meiner Meinung nach hat Gott in der Biologie, Astrophysik und anderen Naturwissenschaftlichen Spaten nichts zu suchen, jedoch bin ich der Meinung, dass Archäologie gut mit der Bibel und dem Glauben an Gott verbunden werden könnte. Antike Bauten wurden oft Göttern gewidmet, es könnten tiefere Bedeutungen gefunden werden.
+
+### Aufgabe 4:
+
+**A:**
+	Ich teile die Meinung von Hemminger. Der Kreationismus und dessen Theorie ist faktuell falsch. 
