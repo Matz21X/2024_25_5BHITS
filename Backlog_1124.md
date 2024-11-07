@@ -16,7 +16,7 @@
 |      | #ITSI   | [[01_Uebungen.pdf]] Root Zertifikat erstellen |                 |     |
 |      | #WIR    | Test                                          |                 |     |
 |      | #NWT    | Linux password crack yescript                 |                 |     |
-| 7    | #DE     |                                               |                 |     |
+| 7    | #DE     | [[Leserbrief01]]                              |                 |     |
 ionic generate component components/heightmap
 
 ITSI Test: Wie funktioniert eine DNS-01 Challenge? 
