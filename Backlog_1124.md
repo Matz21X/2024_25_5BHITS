@@ -18,7 +18,8 @@
 |      | #NWT    | Linux password crack yescript                 |                 |     |
 | 7    | #DE     | [[Leserbrief01]]                              |                 |     |
 |      | #RK     | [[5_Kreationismus_Arbeitsblatt]]              |                 |     |
-|      | #NWT    |                                               |                 |     |
+|      | #NWT    | Oasch Aufgabe                                 |                 |     |
+| 8    | #Dipl   | Interviews Eggenburg                          |                 |     |
 ionic generate component components/heightmap
 
 ITSI Test: Wie funktioniert eine DNS-01 Challenge? 
