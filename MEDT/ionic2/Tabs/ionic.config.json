@@ -1,0 +1,7 @@
+{
+  "name": "SIMET",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,23 @@
+#slider {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  ion-item {
+    width: 80%;
+    justify-content: center;
+    text-align: center;
+  }
+
+  ion-range {
+    --bar-background: #7f7f7f;
+    --pin-background: #fff;
+    --pin-color: #7f7f7f;
+    --bar-background-active: #e59191;
+    width: 100%;
+
+    &[id="ySpeedSlider"] {
+      --bar-background-active: #90EE90;
+    }
+  }
+}

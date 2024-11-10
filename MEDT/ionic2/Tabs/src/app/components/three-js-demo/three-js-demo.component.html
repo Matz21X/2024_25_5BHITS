@@ -1,0 +1,19 @@
+<ion-content>
+  <div id="slider">
+    <!-- X Rotation Slider -->
+    <ion-item>
+      <ion-label>X Rotation:</ion-label>
+      <ion-range id="xSpeedSlider" min="-100" max="100" step="5" [pin]="true" [ticks]="true" [snaps]="true" [(ngModel)]="rotationSliderValueX">
+      </ion-range>
+    </ion-item>
+
+    <!-- Y Rotation Slider -->
+    <ion-item>
+      <ion-label>Y Rotation:</ion-label>
+      <ion-range id="ySpeedSlider" min="-100" max="100" step="5" [pin]="true" [ticks]="true" [snaps]="true" [(ngModel)]="rotationSliderValueY">
+      </ion-range>
+    </ion-item>
+  </div>
+  <canvas #threejs></canvas>
+</ion-content>
+
