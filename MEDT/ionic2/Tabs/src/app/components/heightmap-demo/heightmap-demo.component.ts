@@ -6,7 +6,7 @@ import {
   MeshBasicMaterial,
   Mesh,
   TextureLoader,
-  Texture, BufferGeometry, BufferAttribute, Vector2
+  Texture, BufferGeometry, BufferAttribute, Vector2, MeshStandardMaterial, AmbientLight
 } from "three";
 
 @Component({
@@ -34,13 +34,15 @@ export class HeightmapDemoComponent implements OnInit, AfterViewInit, OnDestroy 
   ngAfterViewInit(): void {
     this.scene = new Scene();
     this.camera = new PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-    this.camera.position.set(0, 30, 90);
+    this.camera.position.set(0, 25, 100);
     this.camera.lookAt(0, 0, 0);
     this.renderer = new WebGLRenderer({canvas: this.canvasRef.nativeElement});
     this.renderer.setSize(window.innerWidth, window.innerHeight);
+    const light = new AmbientLight( 0xd64d5b ); // soft white light
+    this.scene.add( light );
 
     const loader = new TextureLoader();
-    loader.load('assets/textures/heightmap3.png', (texture: Texture) => this.onTextureLoaded(texture));
+    loader.load('assets/textures/heightmap2.png', (texture: Texture) => this.onTextureLoaded(texture));
 
     window.addEventListener('resize', this.onWindowResize.bind(this)); // Resize-Listener
 
@@ -108,7 +110,7 @@ export class HeightmapDemoComponent implements OnInit, AfterViewInit, OnDestroy 
     geometry.setAttribute('position', new BufferAttribute(new Float32Array(vertices), 3));
     geometry.setAttribute('color', new BufferAttribute(new Float32Array(colors), 4));
 
-    const material = new MeshBasicMaterial({ vertexColors: true, wireframe: true });
+    const material = new MeshStandardMaterial({ vertexColors: true, wireframe: true });
     this.map = new Mesh(geometry, material);
     this.scene.add(this.map);
   }
