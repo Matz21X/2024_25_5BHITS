@@ -24,7 +24,10 @@
 |      | #RK     | Random Texte von Wissenschaftlern             |                  |     |
 |      | #AM     | Uhhh                                          |                  |     |
 |      | #EN     | Random shit                                   | Portfolio: Waste |     |
-|      |         |                                               |                  |     |
+|      | #MEDT   | Beleuchtung                                   |                  |     |
+| 12   | #WIR    | Insolvenzstuff                                |                  |     |
+|      | #AM     | GeoGebra stuff                                |                  |     |
+|      | #SEW    | GraphDemo weitergemacht / Contextmenus        |                  |     |
 ionic generate component components/heightmap
 
 ITSI Test: Wie funktioniert eine DNS-01 Challenge? 
