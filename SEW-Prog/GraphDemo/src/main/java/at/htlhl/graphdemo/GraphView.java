@@ -14,8 +14,10 @@ import java.util.function.Consumer;
 public class GraphView extends BorderPane {
     private SmartGraphPanel<String, String> smartGraphPanel;
     private ContentZoomScrollPane contentZoomScrollPane;
+    private GraphControl graphControl;
 
     public GraphView(GraphControl graphControl) {
+        this.graphControl = graphControl;
         SmartPlacementStrategy strategy = new SmartCircularSortedPlacementStrategy();
         smartGraphPanel = new SmartGraphPanel<>(graphControl.getGraph(), strategy);
         smartGraphPanel.setAutomaticLayout(true);
@@ -40,6 +42,11 @@ public class GraphView extends BorderPane {
                 System.out.println("ContextMenu Requested" + contextMenuEvent);
             }
         });
+
+
+        private SmartGraphVertexNode<String> findVertexAt(double x, double y){
+
+        }
 
     }
 
