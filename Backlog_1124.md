@@ -28,6 +28,7 @@
 | 12   | #WIR    | Insolvenzstuff                                |                  |     |
 |      | #AM     | GeoGebra stuff                                |                  |     |
 |      | #SEW    | GraphDemo weitergemacht / Contextmenus        |                  |     |
+| 18   | #DE     |                                               |                  |     |
 ionic generate component components/heightmap
 
 ITSI Test: Wie funktioniert eine DNS-01 Challenge? 
