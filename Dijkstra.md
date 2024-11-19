@@ -18,7 +18,13 @@ function Dijkstra (V, E, start)   // Knoten, Kanten, Startknoten
 	Solange Q nicht leer ist
 		u := kleinstes aus Q      // Knoten mit geringster Distanz
 		Q.entferne(u)
-		Für alle (u, v) ∈ E & ∈ Q // Neue min. Distanz ?
-			Wenn distanz [u] + gewicht (u ,v) < distanz [v]
-				distanz [v] := distanz [u] + gewicht 
+		Für alle (u, v) ∈ E & ∈ Q                              // Neue min. Distanz ?
+			Wenn distanz [u] + gewicht(u ,v) < distanz [v]
+				distanz [v] := distanz [u] + gewicht(u, v)
+				vorgänger [v] := u                             // Ja, Aktualisieren Distanz und
+				                                               // Vorgänger
+				                                       
 ```
+
+**Bemerkung:**
+Pseudocode ist eine detaillierte und dennoch lesbare Beschreibung dessen was ein Computerprogramm oder ein Algorithmus machen soll. Pseudocode wird in einer formal gestalteten natürlichen Sprache und nicht in einer Programmiersprache ausgedrückt
