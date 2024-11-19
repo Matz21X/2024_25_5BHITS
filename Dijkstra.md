@@ -9,8 +9,16 @@
 function Dijkstra (V, E, start)   // Knoten, Kanten, Startknoten
 	Für alle v ∈ V
 		Wenn v == start
-			distanz [v] := 0   // Abstand zum Startknoten
+			distanz [v] := 0      // Abstand zum Startknoten
 		andernfalls
-			distanz [v] := ∞
+			distanz [v] := ∞ 
+		vorgänger [v] := null
+		Q.einfügen(v)             // Menge der zu bearbeitenden Knoten  
 
+	Solange Q nicht leer ist
+		u := kleinstes aus Q      // Knoten mit geringster Distanz
+		Q.entferne(u)
+		Für alle (u, v) ∈ E & ∈ Q // Neue min. Distanz ?
+			Wenn distanz [u] + gewicht (u ,v) < distanz [v]
+				distanz [v] := distanz [u] + gewicht 
 ```
