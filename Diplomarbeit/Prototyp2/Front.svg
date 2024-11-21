@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1624.032 890.937">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.004em;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        letter-spacing: -.026em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5 {
+        fill: #009ee2;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 50px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="85.539" y="68.39" width="1303.937" height="799.37"/>
+  <text class="cls-5" transform="translate(1564.409 536.586) rotate(-90)"><tspan class="cls-3" x="0" y="0">F</tspan><tspan class="cls-4" x="23.051" y="0">r</tspan><tspan x="38.9" y="0">o</tspan><tspan class="cls-1" x="66.351" y="0">n</tspan><tspan x="93.9" y="0">t</tspan></text>
+  <rect class="cls-2" x=".5" y="45.713" width="1474.016" height="844.724"/>
+</svg>
