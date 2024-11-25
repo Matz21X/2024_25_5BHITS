@@ -30,7 +30,8 @@
 |      | #SEW    | GraphDemo weitergemacht / Contextmenus        |                  |     |
 | 18   | #DE     |                                               |                  |     |
 | 25   | #DE     | [[Der Vorleser - Film]]                       |                  |     |
-|      | #RK     |                                               |                  |     |
+|      | #RK     | Vorbereitung Präsentationen                   |                  |     |
+|      | #AM     | Lineare                                       |                  |     |
 ionic generate component components/heightmap
 
 ITSI Test: Wie funktioniert eine DNS-01 Challenge? 
