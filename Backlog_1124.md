@@ -31,7 +31,7 @@
 | 18   | #DE     |                                               |                  |     |
 | 25   | #DE     | [[Der Vorleser - Film]]                       |                  |     |
 |      | #RK     | Vorbereitung Präsentationen                   |                  |     |
-|      | #AM     | Lineare                                       |                  |     |
+|      | #AM     | Vektorrechnung                                |                  |     |
 ionic generate component components/heightmap
 
 ITSI Test: Wie funktioniert eine DNS-01 Challenge? 
