@@ -29,6 +29,7 @@
 |      | #AM     | GeoGebra stuff                                |                  |     |
 |      | #SEW    | GraphDemo weitergemacht / Contextmenus        |                  |     |
 | 18   | #DE     |                                               |                  |     |
+| 25   | #DE     |                                               |                  |     |
 ionic generate component components/heightmap
 
 ITSI Test: Wie funktioniert eine DNS-01 Challenge? 
