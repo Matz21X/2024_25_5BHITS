@@ -33,6 +33,8 @@
 |      | #RK     | Vorbereitung Präsentationen                   |                  |     |
 |      | #AM     | Vektorrechnung                                |                  |     |
 |      | #EN     | [[Waste]]                                     |                  |     |
+|      | #MEDT   | Test / Shadow maps                            |                  |     |
+|      |         |                                               |                  |     |
 ionic generate component components/heightmap
 
 ITSI Test: Wie funktioniert eine DNS-01 Challenge? 
