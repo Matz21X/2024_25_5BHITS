@@ -1,7 +1,10 @@
 # SMTP - Mail
 #NWT 
 
-SMTP - Sender initialisiert "zum Versenden"
 
+[[SMTP Steckbrief]] - Sender initialisiert "zum Versenden"
 
+Empfangen: (Empfänger initialisiert "zum Empfangen")
+- POP3
+- IMAP
 

@@ -37,7 +37,7 @@
 | 26   | Ausflug | Casinos Austria                               |                  |     |
 | 27   | #SYT    | Debian auf Server installieren                |                  |     |
 |      | #ITSI   | Triple A [[02_AAA_RADIUS.pdf]]                |                  |     |
-|      | #NWT    | [[Mail]]                                      |                  |     |
+|      | #NWT    | [[Mail]] / [[SMTP Steckbrief]]                |                  |     |
 ionic generate component components/heightmap
 
 ITSI Test: Wie funktioniert eine DNS-01 Challenge? 
