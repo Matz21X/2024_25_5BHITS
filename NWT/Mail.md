@@ -15,4 +15,8 @@ Spamscore wird berechnet nach:
 - Residential?
 - PTR-Record == HELO Hostname
 
-**Grey**
+**Graylisting:**
+- Src-IP, MAIL FROM, RCPT TO
+
+**SPF-Sender Policy Framework:**
+- 
