@@ -8,3 +8,7 @@ Empfangen: (Empfänger initialisiert "zum Empfangen")
 - POP3
 - IMAP
 
+Spamscore wird berechnet nach:
+- Source IP
+- Black / White listing
+
