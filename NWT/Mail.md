@@ -9,6 +9,10 @@ Empfangen: (Empfänger initialisiert "zum Empfangen")
 - IMAP
 
 Spamscore wird berechnet nach:
-- Source IP
+
+**Source IP:**
 - Black / White listing
-- PTR-Record
+- Residential?
+- PTR-Record == HELO Hostname
+
+**Grey**
