@@ -34,6 +34,9 @@
 |      | #AM     | Vektorrechnung                                |                  |     |
 |      | #EN     | [[Waste]]                                     |                  |     |
 |      | #MEDT   | Test / Shadow maps                            |                  |     |
+| 26   | Ausflug | Casinos Austria                               |                  |     |
+| 27   | #SYT    | Debian auf Server installieren                |                  |     |
+|      | #ITSI   | Triple A [[02_AAA_RADIUS.pdf]]                |                  |     |
 |      |         |                                               |                  |     |
 ionic generate component components/heightmap
 
