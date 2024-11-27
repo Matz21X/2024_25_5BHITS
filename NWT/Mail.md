@@ -19,4 +19,5 @@ Spamscore wird berechnet nach:
 - Src-IP, MAIL FROM, RCPT TO
 
 **SPF-Sender Policy Framework:**
-- 
+- DKIM
+- DMARC
