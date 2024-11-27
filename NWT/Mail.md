@@ -11,4 +11,4 @@ Empfangen: (Empfänger initialisiert "zum Empfangen")
 Spamscore wird berechnet nach:
 - Source IP
 - Black / White listing
-
+- PTR-Record
