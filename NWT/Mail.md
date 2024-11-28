@@ -1,6 +1,12 @@
 # SMTP - Mail
 #NWT 
 
+**Protokolle:**
+- E-Mail: SMTP/IMAP
+- Kalender: CalDAV
+- Adressbuch: CardDAV
+
+
 
 [[SMTP Steckbrief]] - Sender initialisiert "zum Versenden"
 

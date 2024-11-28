@@ -38,6 +38,10 @@
 | 27   | #SYT    | Debian auf Server installieren                |                  |     |
 |      | #ITSI   | Triple A [[02_AAA_RADIUS.pdf]]                |                  |     |
 |      | #NWT    | [[Mail]] / [[SMTP Steckbrief]]                |                  |     |
+| 28   | #DE     | Film weiterschauen                            |                  |     |
+|      | #RK     | Präsentationen Hinduismus                     |                  |     |
+|      | #ITP    | Test                                          |                  |     |
+|      | #NWT    | [[Mail]]                                      |                  |     |
 ionic generate component components/heightmap
 
 ITSI Test: Wie funktioniert eine DNS-01 Challenge? 

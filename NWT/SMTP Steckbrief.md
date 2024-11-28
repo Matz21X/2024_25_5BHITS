@@ -1,4 +1,4 @@
-# Steckbrief: Simple Mail Transfer Protocol (SMTP)
+# Steckbrief: Simple [[Mail]] Transfer Protocol (SMTP)
 #NWT
 
 ## Allgemeines
