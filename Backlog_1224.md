@@ -4,6 +4,6 @@
 | Date | Subject | Material          | Additional info |     |
 | ---- | ------- | ----------------- | --------------- | --- |
 | 9    | #DE     | Schularbeitsstoff |                 |     |
-|      |         |                   |                 |     |
+|      | #RK     | [[Buddhismus]]    |                 |     |
 |      |         |                   |                 |     |
 |      |         |                   |                 |     |
