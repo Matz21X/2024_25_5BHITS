@@ -1,5 +1,9 @@
 # INSY5 Zusammenfassung
 #INSY
+
+
+Theorie (Neuronales Netz, ML, Deep Lerning und co.) Dann Arrays schreiben und dek Index oder so angeben und dann pandas Befehle wie .info() und .describe() beschreiben was sie machen und eigene Pandas Befehle noch angeben und dann eine lineare Regressions Model mit python schreiben
+
 ___
 ## numpy
 - ``np.zeroes(shape=10) || np.zeroes(10)`` Array with filled with 0 size 10:
