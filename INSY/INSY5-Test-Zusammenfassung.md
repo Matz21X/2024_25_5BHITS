@@ -1,5 +1,5 @@
 # INSY5 Zusammenfassung
-von Moritz Simet und Julian Winkler
+#INSY
 ___
 ## numpy
 - ``np.zeroes(shape=10) || np.zeroes(10)`` Array with filled with 0 size 10:
