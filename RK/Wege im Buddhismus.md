@@ -2,6 +2,7 @@
 #RK 
 
 
+- **Theravāda:** Der älteste erhaltene Zweig des Buddhismus, der sich auf die ursprünglichen Lehren Buddhas und die persönliche Befreiung durch Meditation und Ethik konzentriert.
 - **Bhakti:** Ein Weg der Hingabe, bei dem Liebe und Verehrung gegenüber einem göttlichen Wesen oder Lehrer im Zentrum stehen.
 - **Mahayana:** Ein großer Zweig des Buddhismus, der Mitgefühl und das Streben nach Erleuchtung für das Wohl aller fühlenden Wesen in den Mittelpunkt stellt.
 - **Tantrismus:** Ein esoterischer Weg, der symbolische Rituale und Meditationstechniken nutzt, um Erleuchtung zu erreichen.
