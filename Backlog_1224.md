@@ -1,24 +1,25 @@
 # Backlog Dezember
 #Backlog 
 
-| Date | Subject | Material                      | Additional info |     |
-| ---- | ------- | ----------------------------- | --------------- | --- |
-| 9    | #DE     | Schularbeitsstoff             |                 |     |
-|      | #RK     | [[Buddhismus]]                |                 |     |
-|      | #AM     | Letto HÜ                      |                 |     |
-| 10   | #WIR    | Bieromat                      |                 |     |
-|      | #AM     | I was nix                     |                 |     |
-|      | #SEW    | Goanix                        |                 |     |
-|      | #INSY   | Schlachtfeld                  |                 |     |
-| 11   | #SYT    | NIX / Advent of Code          |                 |     |
-|      | #WIR    | Uhh                           |                 |     |
-|      | #NWT    | Goanix                        |                 |     |
-| 12   | #ITP    | Tim / Göd Prüfung             |                 |     |
-|      | #RK     | [[Wege im Buddhismus]]        |                 |     |
-|      | #ITP    | Sozialversicherungen / Gehalt |                 |     |
-|      | #NWT    | NIX                           |                 |     |
-| 13   | #Dipl   | Sachen machen                 |                 |     |
-| 16   | #DE     | Kommasetzung                  |                 |     |
-|      | #RK     | Buddhismus                    |                 |     |
-10% 160.000€ 
-25.1%le
+| Date | Subject | Material                                       | Additional info |                                                                                                                                                                                                               |
+| ---- | ------- | ---------------------------------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9    | #DE     | Schularbeitsstoff                              |                 |                                                                                                                                                                                                               |
+|      | #RK     | [[Buddhismus]]                                 |                 |                                                                                                                                                                                                               |
+|      | #AM     | Letto HÜ                                       |                 |                                                                                                                                                                                                               |
+| 10   | #WIR    | Bieromat                                       |                 |                                                                                                                                                                                                               |
+|      | #AM     | I was nix                                      |                 |                                                                                                                                                                                                               |
+|      | #SEW    | Goanix                                         |                 |                                                                                                                                                                                                               |
+|      | #INSY   | Schlachtfeld                                   |                 |                                                                                                                                                                                                               |
+| 11   | #SYT    | NIX / Advent of Code                           |                 |                                                                                                                                                                                                               |
+|      | #WIR    | Uhh                                            |                 |                                                                                                                                                                                                               |
+|      | #NWT    | Goanix                                         |                 |                                                                                                                                                                                                               |
+| 12   | #ITP    | Tim / Göd Prüfung                              |                 |                                                                                                                                                                                                               |
+|      | #RK     | [[Wege im Buddhismus]]                         |                 |                                                                                                                                                                                                               |
+|      | #ITP    | Sozialversicherungen / Gehalt                  |                 |                                                                                                                                                                                                               |
+|      | #NWT    | NIX                                            |                 |                                                                                                                                                                                                               |
+| 13   | #Dipl   | Sachen machen                                  |                 |                                                                                                                                                                                                               |
+| 16   | #DE     | Kommasetzung                                   |                 |                                                                                                                                                                                                               |
+|      | #RK     | Buddhismus                                     |                 |                                                                                                                                                                                                               |
+|      | #AM     |                                                |                 |                                                                                                                                                                                                               |
+|      | #EN     | Rainforest / [[Urgent environmental problems]] | Bis 13. Jänner  | 1 Transport (private versus public transport; strategies of cities to get cars out of the city; how to get the driver’s license in Austria; necessity of it; future of transport) **Liste zusammenschreiben** |
+|      | #MEDT   |                                                |                 |                                                                                                                                                                                                               |
