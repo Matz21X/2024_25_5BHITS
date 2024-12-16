@@ -2,7 +2,7 @@
 #EN 
 
 ### 1. **Climate Change**
-- **Causes**: Primarily driven by greenhouse gas emissions from fossil fuel combustion, deforestation, and industrial processes.
+- **Causes**: Primarily drive by greenhouse gas emissions from fossil fuel combustion, deforestation, and industrial processes.
 - **Impacts**: Rising global temperatures, extreme weather events (droughts, hurricanes, wildfires), sea level rise, and disrupted ecosystems.
 - **Example:** More extreme weather events are happening all around the world
 
@@ -59,4 +59,4 @@
 - **Behavioral Change**: Increased public awareness, reduced consumption, and support for eco-friendly practices.
 - **Global Cooperation**: Collaboration between nations to address transboundary environmental issues.
 
-- Introduction of an EU or even worldwide CO2 tax that gets invested directly into renewable energy sources, so those fund can't get 
+- Introduction of an EU or even worldwide CO2 tax that gets invested directly into renewable energy sources, so those fund can't get used for other purposes. Only for the greater good.
