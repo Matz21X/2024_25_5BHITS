@@ -18,4 +18,4 @@
 |      | #ITP    | Sozialversicherungen / Gehalt |                 |     |
 |      | #NWT    |                               |                 |     |
 10% 160.000€ 
-25.1% 200.000€
+25.1%le
