@@ -4,10 +4,12 @@
 ### 1. **Climate Change**
 - **Causes**: Primarily driven by greenhouse gas emissions from fossil fuel combustion, deforestation, and industrial processes.
 - **Impacts**: Rising global temperatures, extreme weather events (droughts, hurricanes, wildfires), sea level rise, and disrupted ecosystems.
+- **Example:** More extreme weather events are happening all around the world
 
 ### 2. **Loss of Biodiversity**
 - **Causes**: Habitat destruction, overfishing, poaching, pollution, and climate change.
 - **Impacts**: Disruption of ecosystems, loss of genetic diversity, and weakened ecosystem services like pollination and water purification.
+- 
 
 ### 3. **Deforestation**
 - **Causes**: Logging, agricultural expansion, urbanization, and infrastructure development.
