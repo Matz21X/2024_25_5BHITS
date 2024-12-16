@@ -16,6 +16,9 @@
 | 12   | #ITP    | Tim / Göd Prüfung             |                 |     |
 |      | #RK     | [[Wege im Buddhismus]]        |                 |     |
 |      | #ITP    | Sozialversicherungen / Gehalt |                 |     |
-|      | #NWT    |                               |                 |     |
+|      | #NWT    | NIX                           |                 |     |
+| 13   | #Dipl   | Sachen machen                 |                 |     |
+| 16   | #DE     | Kommasetzung                  |                 |     |
+|      | #RK     | Buddhismus                    |                 |     |
 10% 160.000€ 
 25.1%le
