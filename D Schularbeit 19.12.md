@@ -45,3 +45,47 @@
 		- Mit Freundlichen Grüßen \n Name
 
 ## **Kommentar**
+
+**Facts:**
+- Eigene Meinung
+- Überzeugend
+- Präsens
+- "man" anstatt von "ich"
+- Stilmittel
+- zum Denken anregen
+
+**Gliederung:**
+- Einleitung:
+	- Interessanter Titel
+	- Interessanter Einstieg
+	- Problemstellung benennen
+	- ![[D Schularbeit 19.12-20241218084154434.webp]]
+- Hauptteil:
+	- Standpunkt mir Argumenten untermauern
+	- Gegenargumente aufgreifen und auseinandernehmen (Like a boss 🍻)
+- Schluss:
+	- Klare Position erläutern
+	- Fazit / Appell
+
+## **Meinungsrede:**
+
+**Facts:**
+- Definierte Zielgruppe, direkt ansprechen
+- Stilmittel
+- Überzeugend
+- Präsens
+- Ich / Wir formulierungen
+- AIDA Formel (Attention, Interest, Desire, Action)
+
+**Gliederung:**
+- Einleitung:
+	- Bezug herstellen
+	- Anlass -> Zitat oder selbst betroffen
+- Hauptteil:
+	- Argumente (beide Richungen)
+	- Überzeugend
+	- Zielgruppe mehrmals direkt ansprechen
+- Schluss:
+	- Zusammenfassen
+	- Appell
+	- direkt an das Publikum
