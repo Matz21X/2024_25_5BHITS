@@ -4,6 +4,8 @@
 
 ## **Zusammenfassung**
 
+> Die Textsorte Zusammenfassung dient dazu, den Inhalt eines vorliegenden Ausgangstextes komprimiert und in eigenen Worten schriftlich wiederzugeben. Im Unterschied zu einer Kurzfassung, wo der Schreibstil des Ausgangstextes beibehalten wird, ist die Zusammenfassung immer in einem neutralen, sachlichen Stil verfasst.
+
 **Facts:**
 - Präsens
 - Indirekte Reden
@@ -16,10 +18,13 @@
 	- Titel: Zusammenfassung von ....
 	- Basissatz (Titel, Autor, Textsorte, Medium, Erscheinungsdatum, Verleger)
 	- Thema ganz kurz zusammengefasst
+	- ![[D Schularbeit 19.12-20241218084859342.webp]]
 - Hauptteil:
 	- Zusammengefasste Inhalte in chronologischer Reihenfolge
 
 ## **Leserbrief**
+
+>Die Textsorte Leserbrief dient dazu, sich direkt an eine Zeitungsredaktion bzw. an die Ver- fasserin/den Verfasser eines konkreten Artikels oder eines anderen Leserbriefs zu wenden und dazu Stellung zu nehmen. Oft ist auch ein reales Ereignis oder ein bestimmter Zustand das Thema bzw. der Anlass eines Leserbriefs. Wer einen Leserbrief schreibt, rechnet mit dessen Veröffentlichung. Die hier angegebene Gliederung ist eine bewährte Form für das Verfassen eines Leserbriefs.
 
 **Facts:**
 - An die Redaktion / Autor gerichtet
@@ -27,15 +32,15 @@
 - Sachlich argumentativ, bis hin zu provokativ
 
 **Gliederung:**
-- Eröffnungsformel:
+- Einleitung:
 	- Titel
 	- Ort, Datum (Rechtsbündig, Zeile unterm Titel)
 	- Persönliche Anrede: "Sehr geehrter Herr..."
-- Einleitung:
-	- Schreibanlass
-	- Bezug aufs Thema
-	- Basisinformation
-	- ![[D Schularbeit 19.12-20241218083601155.webp]]
+	- Eröffnungsformel:
+		- Schreibanlass
+		- Bezug aufs Thema
+		- Basisinformation
+		- ![[D Schularbeit 19.12-20241218083601155.webp]]
 - Hauptteil:
 	- Position: Zustimmend, Ablehnend, Ergänzend, Widerspruch
 	- Eigene Meinung argumentativ hinterlegen
@@ -45,6 +50,8 @@
 		- Mit Freundlichen Grüßen \n Name
 
 ## **Kommentar**
+
+>Der Kommentar zählt zu den meinungsbetonten Textsorten. Ziel der Verfasserin/des Ver- fassers eines Kommentars ist es, kritisch bzw. wertend zu einem aktuellen Thema Stellung zu nehmen und die Leserschaft von einer bestimmten Sichtweise zu überzeugen. Sprachlich gesehen zeichnet sich diese Textsorte durch Ideenreichtum, Ironie und Anschaulichkeit aus.
 
 **Facts:**
 - Eigene Meinung
@@ -69,6 +76,8 @@
 
 ## **Meinungsrede:**
 
+>Die Meinungsrede ist - als argumentative Textsorte - die Druckfassung einer Rede. Sie richtet sich an ein vorher definiertes Publikum und befasst sich mit Ihren persönlichen Ein- stellungen zu einem bestimmten Thema. Rhetorische Stilfiguren und eine anschauliche Sprache sind typische Merkmale für diese Textsorte.
+
 **Facts:**
 - Definierte Zielgruppe, direkt ansprechen
 - Stilmittel
@@ -81,6 +90,7 @@
 - Einleitung:
 	- Bezug herstellen
 	- Anlass -> Zitat oder selbst betroffen
+	- ![[D Schularbeit 19.12-20241218085103286.webp]]
 - Hauptteil:
 	- Argumente (beide Richungen)
 	- Überzeugend
