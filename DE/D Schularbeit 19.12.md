@@ -29,6 +29,7 @@
 - An die Redaktion / Autor gerichtet
 - Eigene Stellungnahme
 - Sachlich argumentativ, bis hin zu provokativ
+- 270-330 Wörter
 
 **Gliederung:**
 - Einleitung:
@@ -59,6 +60,7 @@
 - "man" anstatt von "ich"
 - Stilmittel
 - zum Denken anregen
+- 405-495 Wörter
 
 **Gliederung:**
 - Einleitung:
@@ -84,6 +86,7 @@
 - Präsens
 - Ich / Wir formulierungen
 - AIDA Formel (Attention, Interest, Desire, Action)
+- 405-495, 540-660 Wörter
 
 **Gliederung:**
 - Einleitung:
