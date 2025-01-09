@@ -9,7 +9,7 @@ CN = Canonical name
 - eDirectory
 - OpenLDAP (slapd)
 - 389 Directory Server
-- ApacheDS
+- *ApacheDS*
 - ...
 
 **Zugriffsarten:**
