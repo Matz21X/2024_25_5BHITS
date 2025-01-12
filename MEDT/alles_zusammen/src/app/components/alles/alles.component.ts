@@ -129,15 +129,19 @@ export class AllesComponent implements OnInit, AfterViewInit, OnDestroy {
 
     const redBall1 = new Mesh(ballGeometry, winwRedGlowMaterial);
     redBall1.position.set(-5, 10, 5);
+    redBall1.castShadow = true;
 
     const redBall2 = new Mesh(ballGeometry, winwRedGlowMaterial);
     redBall2.position.set(-8, 8, 8);
+    redBall2.castShadow = true;
 
     const greenBall = new Mesh(ballGeometry, greenGlowMaterial);
     greenBall.position.set(5, 5, 0);
+    greenBall.castShadow = true;
 
     const purpleBall = new Mesh(ballGeometry, purpleGlowMaterial);
     purpleBall.position.set(10, 11, 10);
+    purpleBall.castShadow = true;
 
     this.scene.add(redBall1, redBall2, purpleBall, greenBall);
   }
