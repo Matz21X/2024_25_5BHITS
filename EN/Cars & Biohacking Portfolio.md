@@ -7,7 +7,7 @@
 - Electric Motors (Earliest ones in 1888, Mass production in 1996 with the GM EV1)
 - Hybrid-Systems (Internal combustion engines and electric motors in one powertrain)
 - Fuel-Cells / Hydrogen (First was the Toyota Mirai in 2014)
-- ![[Cars & Biohacking Portfolio-20250210090455921.webp|229]]
+- ![[Cars & Biohacking Portfolio-20250210090455921.webp|354]]
 
 ### Combustion engines:
 
