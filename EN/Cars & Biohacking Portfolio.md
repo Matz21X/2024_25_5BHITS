@@ -69,3 +69,8 @@
 - **Bryan Johnson**: Tech entrepreneur spending millions on age-reversing biohacks.
 - **DIY Gene Editing**: Some biohackers experiment with CRISPR on themselves, though it’s highly controversial.
 - **Smart Drugs & Nootropics**: Supplements like **L-theanine, caffeine, modafinil** are popular for cognitive enhancement.
+
+HW Speakers Feb. 24th
+Changes in smart communication
+Nutrition and obesity
+Stress factors of teens
