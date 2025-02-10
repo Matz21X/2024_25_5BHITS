@@ -12,4 +12,13 @@
 - I4, I5, I6, I10, V6, V8, V10, V12, ...
 - Difference in fuel systems (Gasoline, Diesel)
 - Forced induction (Difference between Turbochargers and Superchargers)
-- ![[Cars & Biohacking Portfolio-20250209131501121.webp]]
+- ![[Cars & Biohacking Portfolio-20250209131501121.webp|533]]
+
+**Fuel cell technology**
+- FCVs use hydrogen fuel cells to generate electricity, which powers an electric motor.
+- The fuel cell combines **hydrogen (H₂) with oxygen (O₂)** from the air in an electrochemical reaction, producing electricity, **water (H₂O) as the only emission**, and heat.
+  
+- **Zero Emissions**: Only water vapor is emitted, making them environmentally friendly.
+- **Fast Refueling**: Takes about **3-5 minutes**, much faster than charging a BEV.
+- **Long Range**: Typically **500–800 km (310–500 miles)** per tank, similar to gasoline cars.
+- **Lightweight Fuel**: Hydrogen is much lighter than batteries, helping FCVs maintain efficiency.
