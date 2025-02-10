@@ -7,6 +7,7 @@
 - Electric Motors (Earliest ones in 1888, Mass production in 1996 with the GM EV1)
 - Hybrid-Systems (Internal combustion engines and electric motors in one powertrain)
 - Fuel-Cells / Hydrogen (First was the Toyota Mirai in 2014)
+- ![[Cars & Biohacking Portfolio-20250210090455921.webp|229]]
 
 ### Combustion engines:
 
@@ -35,6 +36,7 @@
 - Todays cars are already kitted out with self-driving features such as Teslas, BYDs and many more.
 - Most cars are already interconnected.
 
+![[Cars & Biohacking Portfolio-20250210090358618.webp|460]]
 
 # Biohacking
 
