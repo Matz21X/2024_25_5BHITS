@@ -25,7 +25,7 @@ So, Sun, 16 February 2014 17:55:09 UTC — 5 hours = <span style="color:rgb(255,
 
 Antwort C: Sun, 16 February 2014 12:55:09 -05:00
 ### 4. Aufgabe
->The physical disk contains a Virtual Hard Drive which is greater than 10MB in size, the full name of the file is: system.vhd
+>	The physical disk contains a Virtual Hard Drive which is greater than 10MB in size, the full name of the file is: system.vhd
 
 2,147,483,648 bytes ÷ 1,048,576 bytes/MB ≈ <span style="color:rgb(255, 255, 0)">2048 MB</span>
 
