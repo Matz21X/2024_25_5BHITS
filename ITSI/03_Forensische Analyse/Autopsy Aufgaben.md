@@ -40,4 +40,6 @@ Die GUID ist der <span style="color:rgb(255, 255, 0)">MD-5</span> Hash des physi
 
 Antwort: False
 
+Weiter bin ich nicht 🍺
+
 
