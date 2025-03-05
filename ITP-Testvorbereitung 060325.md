@@ -65,6 +65,8 @@
   - **Leistungsmerkmalen:** Steigern Zufriedenheit proportional.
   - **Begeisterungsmerkmalen:** Unerwartete Eigenschaften, die Freude erzeugen.
 
+![[ITP-Testvorbereitung 060325-20250305190440691.webp]]
+
 ---
 
 ## 5. **Agiles Projektmanagement**
