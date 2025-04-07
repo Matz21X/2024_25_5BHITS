@@ -1,14 +1,14 @@
 types of addictions, reasons for addictions, how to prevent addictions, risks and dangers of addictions, overcoming an addiction
 
 ###  Types of addiction
-- alcohol addiction 
-- food / sugar addiction 
-- drug addiction 
-- gambling a. 
-- gaming a. 
-- internet a. 
-- shopping a. 
-- smoking
+alcohol addiction 
+food / sugar addiction 
+drug addiction 
+gambling a. 
+gaming a. 
+internet a. 
+shopping a. 
+smoking
 ### Reasons for addictions
 to relieve stress 
 to feel good 
