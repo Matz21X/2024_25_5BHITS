@@ -67,3 +67,50 @@ to find out the reason for an addiction 
 to replace the addiction with a positive habit / activity 
 to change one’s circle of friends 
 to rethink one’s actions and decisions
+
+
+The unequal society (the original idea of the American Dream, the concept in the 1950ies; factors that make it harder to achieve it today; food deserts; poverty cycle; childhood poverty)  
+# The Unequal Society  
+## The Original Idea of the American Dream  
+The **American Dream** was the belief that anyone, regardless of background, could achieve **prosperity** and success through hard work and **determination**. In the **1950s**, this idea was **embodied** by:  
+- **Economic growth**: A booming post-war economy with well-paying jobs.  
+- **Homeownership**: Government programs made buying a house **attainable**.  
+- **Upward mobility**: Education and hard work led to a better life than one’s parents.
+
+However, this dream was **inaccessible** to many minorities due to **systemic** racism (e.g., redlining, segregation).  
+## Factors That Make It Harder to Achieve Today  
+Several **barriers** now make the American Dream more **elusive**:  
+- **Income inequality**: The wealth gap between the rich and poor has **widened**.  
+- **Rising costs**: Housing, education, and healthcare are **prohibitively** expensive.  
+- **Job insecurity**: Automation and gig work reduce stable employment.  
+- **Student debt**: Limits financial mobility for young adults.  
+- **Discrimination**: Systemic biases in hiring, wages, and lending persist.  
+## Food Deserts  
+**Food deserts** are areas with limited access to affordable, nutritious food, often in low-income or minority neighbourhoods.  
+- Causes: Supermarkets avoid these areas; fast food is more **accessible**.  
+- Effects: Higher rates of obesity, diabetes, and **malnutrition**.  
+- Solutions: Urban farming, incentives for grocery stores, better public transport.  
+## Poverty Cycle  
+The **poverty cycle** is a self-reinforcing loop where economic hardship is passed between generations.  
+- **Low education** → Few job opportunities → **Low wages** → Poor living conditions → Children struggle in school → Repeat.  
+- Breaking the cycle requires **interventions** like better schools, job training, and social programs.  
+## Childhood Poverty  
+Children in poverty face **long-term disadvantages**:  
+- **Health**: Poor nutrition leads to developmental issues.  
+- **Education**: Underfunded schools, lack of resources.  
+- **Psychological stress**: Instability affects mental health.  
+- **Future prospects**: Higher likelihood of remaining in poverty as adults.  
+### Relevant B2 & C1 Vocabulary
+
+|**B2 Words**|**C1 Words**|  
+|---|---|  
+|Inequality|Disparity|  
+|Opportunity|Socioeconomic|  
+|Discrimination|Institutionalized|  
+|Affordable|Impoverished|  
+|Struggle|Marginalized|  
+|Access|Precarious|  
+|Privilege|Intergenerational|  
+|Welfare|Deprivation|  
+|Mobility|Gentrification|  
+|Barriers|Entrenched|
