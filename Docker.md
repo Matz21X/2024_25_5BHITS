@@ -86,7 +86,33 @@
 |`docker images / rmi`|Listet / entfernt Images|
 |`docker logs [-f]`|Zeigt (Live-)Logs eines Containers|
 
+---
 
+```d
+version: "3.8"
+
+services:
+  web:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./frontend:/usr/share/nginx/html:ro
+    depends_on:
+      - app
+
+  app:
+    build: ./app
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./app:/usr/src/app
+    environment:
+      - NODE_ENV=development
+    command: ["npm", "start"]
+
+```
 ## Fragen
 
 - Wie funktioniert die Docker-Architektur (Docker Engine, Daemon, CLI)?
@@ -96,3 +122,12 @@
 - Was passiert, wenn man den Befehl `docker run <image>` ausführt?
 
 - Wie kommunizieren Container untereinander?
+
+- Was ist der Hauptunterschied zwischen Docker-Containern und VMs?
+    
+- Warum gelten Docker-Container als ressourcenschonender?
+    
+- Wann wäre der Einsatz einer virtuellen Maschine sinnvoller als ein Container?
+
+
+Port mapping - Containerization of Databases
