@@ -135,3 +135,4 @@ Port mapping - Containerization of Databases
 
 Winkler Präsis
 Datenbankmodelle Ehrnhofer
+SQL Views, Joins Ehrnhofer
