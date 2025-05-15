@@ -9,3 +9,5 @@ Docker ist eine Plattform zur **Containerisierung** von Anwendungen. Das bedeute
 Docker basiert auf **Linux-Containern**, die eine **prozessbasierte Virtualisierung** bereitstellen. Anders als virtuelle Maschinen (VMs) virtualisieren Container **nicht das gesamte Betriebssystem**, sondern nutzen den **Kernel des Host-Betriebssystems** und isolieren Prozesse durch **Namespaces** und **Control Groups (cgroups)**.
 
 ![[Docker Zusammenfassung-20250515164733929.webp|1023]]
+
+
