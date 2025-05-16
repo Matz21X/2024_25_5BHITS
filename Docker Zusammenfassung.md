@@ -8,7 +8,7 @@ Docker ist eine Plattform zur **Containerisierung** von Anwendungen. Das bedeute
 
 Docker basiert auf **Linux-Containern**, die eine **prozessbasierte Virtualisierung** bereitstellen. Anders als virtuelle Maschinen (VMs) virtualisieren Container **nicht das gesamte Betriebssystem**, sondern nutzen den **Kernel des Host-Betriebssystems** und isolieren Prozesse durch **Namespaces** und **Control Groups (cgroups)**.
 
-![[Docker Zusammenfassung-20250515164733929.webp|1023]]
+![[Docker Zusammenfassung-20250515164733929.webp]]
 
 **Cgroups:**
 - Definition von Quotas auf Prozesse (auf CPU- und RAM-Ebene)
@@ -218,4 +218,31 @@ mysqldb mysql
 | `docker run -p HOST:CONTAINER IMAGE` | Portweiterleitung vom Host zum Container |
 
 **Volumes und Speicher:**
-#
+
+
+| Befehl                             | Beschreibung                        |
+| ---------------------------------- | ----------------------------------- |
+| `docker volume ls`                 | Listet alle Volumes                 |
+| `docker volume create NAME`        | Erstellt ein neues Volume           |
+| `docker run -v VOLUME:/pfad IMAGE` | Mountet ein Volume in den Container |
+| `docker volume inspect NAME`       | Zeigt Detailinfos zu einem Volume   |
+| `docker volume rm NAME`            | Löscht ein Volume                   |
+
+**System aufräumen:**
+
+|Befehl|Beschreibung|
+|---|---|
+|`docker system prune`|Löscht ungenutzte Container, Netzwerke und Images|
+|`docker image prune`|Entfernt ungenutzte Images|
+|`docker container prune`|Entfernt gestoppte Container|
+|`docker volume prune`|Entfernt unbenutzte Volumes|
+
+**Sonstiges:**
+
+| Befehl                            | Beschreibung                                        |
+| --------------------------------- | --------------------------------------------------- |
+| `docker stats`                    | Zeigt Ressourcenverbrauch aller laufenden Container |
+| `docker top CONTAINER`            | Zeigt Prozesse im Container                         |
+| `docker cp CONTAINER:pfad ./ziel` | Kopiert Dateien vom Container auf den Host          |
+| `docker info`                     | Zeigt Systeminformationen zu Docker                 |
+| `docker version`                  | Zeigt Docker-Client- und Server-Version             |
