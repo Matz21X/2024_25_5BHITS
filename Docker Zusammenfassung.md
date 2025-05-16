@@ -93,3 +93,57 @@ Hier ein paar der wichtigsten Flags:
 |`--hostname`|Eigener Hostname im Container|
 |`--dns`|Benutzerdefinierte DNS-Server im Container|
 
+Hier noch ein komplexer run Befehl:
+
+```
+docker run -d \
+  --name webapp \                     # Name des Containers
+  -p 8080:80 \                        # Portweiterleitung ans Hostsystem
+  -e NODE_ENV=production \            # Environmentvariablen
+  -v $(pwd)/app:/usr/src/app \        # Volume einbinden
+  --memory="512m" --cpus="1.0" \      # Maximaler RAM und CPU Kerne
+  --restart=always \                  # Automatischer Neustart
+  my-node-image                       # Image
+
+```
+
+
+## Networking
+
+Docker bringt beim Installieren automatisch drei Netzwerkmodi mit:
+
+|Name|Typ|Beschreibung|
+|---|---|---|
+|`bridge`|Standard für einzelne Container|Eigene virtuelle Bridge (z. B. `docker0`), Container bekommen eigene IP|
+|`host`|Kein Netzwerk-Namespace|Container nutzt Host-Netzwerk direkt, keine Isolierung (schnell, aber unsicherer)|
+|`none`|Komplett isoliert|Container hat **kein Netzwerk**, nutzbar für isolierte Tasks|
+|benutzerdefiniert (`--driver bridge`)|Vom Nutzer angelegtes Bridge-Netzwerk|Ermöglicht DNS-Namen, Container-Kommunikation über Namen|
+
+### `bridge` (Standard):
+
+```
+docker run -d --name web -p 8080:80 nginx
+```
+
+- Container läuft im Default-Bridge-Netzwerk.
+- Docker nattet den Port `8080` auf `80` im Container. -> `<Hostport>:<Containerport>`
+- Container hat eigene IP (z. B. `172.17.0.2`).
+- Service erreichbar unter `localhost:8080`
+
+### `host`:
+
+```
+docker run --network host nginx
+```
+
+- Container verwendet direkt die Netzwerk-Interfaces des Hosts.
+- Kein `-p` nötig – Ports sind direkt erreichbar.
+
+### `none`:
+
+```
+docker run --network none alpine
+```
+
+- Kein Internetzugang.
+- Keine Kommunikation mit anderen Containern.
