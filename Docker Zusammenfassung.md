@@ -18,29 +18,12 @@ Docker basiert auf **Linux-Containern**, die eine **prozessbasierte Virtualisier
 - Netzwerkinterface zu Prozessen zuordnen
 - virtuelles Dateisystem für Prozesse
 
-
-## Images
-
-Ein **Docker Image** (ein ISO-File sozusagen) ist eine **unveränderliche Vorlage** (read-only), aus der ein oder mehrere **Container** erstellt werden können. Man kann es sich als **Schnappschuss eines Dateisystems** vorstellen – inklusive aller benötigten Dateien, Konfigurationen, Abhängigkeiten und der Anwendung selbst.
-
-Ein Docker Image besteht aus mehreren **Layern**, die übereinandergestapelt sind:
-
-```
-[ Layer 4 ]  ⟵ Anwendungscode (z. B. Python-Skript)
-[ Layer 3 ]  ⟵ zusätzliche Abhängigkeiten (z. B. pip install ...)
-[ Layer 2 ]  ⟵ Systempakete (z. B. apt install ...)
-[ Layer 1 ]  ⟵ Basis-Image (z. B. ubuntu:20.04)
-```
-
-Jeder dieser Layer ist **read-only**. Erst beim Starten eines Containers wird **ein schreibbarer Layer** darübergelegt.
-Um Images herunterzuladen wird der Befehl `docker pull <imagename>` verwendet
-
-
+![[Docker Zusammenfassung-20250516200843417.webp]]
 ## Dockerfile
 
 Um ein Image zu erstellen benötigt man zuerst ein Dockerfile. Dieses könnte Beispielhaft so aussehen:
 
-```
+```d
 FROM python:3.11-slim           # Layer 1: Basisimage
 WORKDIR /app                    # Layer 2: Arbeitsverzeichnis
 COPY requirements.txt .         # Layer 3: Dateien kopieren
@@ -51,12 +34,29 @@ CMD ["python", "main.py"]       # Startbefehl für Container
 
 Mit dem Befehl `docker build -t imagename .` wird dann das Docker Image erstellt. 
 
+## Images
+
+Ein **Docker Image** (ein ISO-File sozusagen) ist eine **unveränderliche Vorlage** (read-only), aus der ein oder mehrere **Container** erstellt werden können. Man kann es sich als **Schnappschuss eines Dateisystems** vorstellen – inklusive aller benötigten Dateien, Konfigurationen, Abhängigkeiten und der Anwendung selbst.
+
+Ein Docker Image besteht aus mehreren **Layern**, die übereinandergestapelt sind:
+
+```d
+[ Layer 4 ]  ⟵ Anwendungscode (z. B. Python-Skript)
+[ Layer 3 ]  ⟵ zusätzliche Abhängigkeiten (z. B. pip install ...)
+[ Layer 2 ]  ⟵ Systempakete (z. B. apt install ...)
+[ Layer 1 ]  ⟵ Basis-Image (z. B. ubuntu:20.04)
+```
+
+Jeder dieser Layer ist **read-only**. Erst beim Starten eines Containers wird **ein schreibbarer Layer** darübergelegt.
+Um Images herunterzuladen wird der Befehl `docker pull <imagename>` verwendet
+
+
 ## Docker Container
 
 Ein Docker Container ist die laufende Instanz eines Docker-Images. 
 Hier ein Beispiel eines Nginx Containerstarts:
 
-```
+```d
 docker run –d nginx
 ```
 
@@ -95,7 +95,7 @@ Hier ein paar der wichtigsten Flags:
 
 Hier noch ein komplexer run Befehl:
 
-```
+```d
 docker run -d \
   --name webapp \                     # Name des Containers
   -p 8080:80 \                        # Portweiterleitung ans Hostsystem
@@ -104,7 +104,6 @@ docker run -d \
   --memory="512m" --cpus="1.0" \      # Maximaler RAM und CPU Kerne
   --restart=always \                  # Automatischer Neustart
   my-node-image                       # Image
-
 ```
 
 
@@ -121,7 +120,7 @@ Docker bringt beim Installieren automatisch drei Netzwerkmodi mit:
 
 ### `bridge` (Standard):
 
-```
+```d
 docker run -d --name web -p 8080:80 nginx
 ```
 
@@ -132,7 +131,7 @@ docker run -d --name web -p 8080:80 nginx
 
 ### `host`:
 
-```
+```d
 docker run --network host nginx
 ```
 
@@ -141,9 +140,40 @@ docker run --network host nginx
 
 ### `none`:
 
-```
+```d
 docker run --network none alpine
 ```
 
 - Kein Internetzugang.
 - Keine Kommunikation mit anderen Containern.
+
+### Benutzerdefinierte Netzwerke
+
+Man kann eigene Netzwerke erstellen, um z. B. mehrere Container miteinander kommunizieren zu lassen:
+
+```d
+docker network create my-net
+```
+
+Dann:
+
+```d
+docker run -d --network my-net --name db postgres
+docker run -d --network my-net --name app myapp
+```
+
+- Jetzt kann `app` mit `db` über den DNS-Namen `db` kommunizieren.
+- Docker erstellt automatisch DNS-Einträge und Routing.
+
+
+
+## Datenbanken
+
+Der große Vorteil von Docker ist es unter anderem Datenbanksysteme in Sekundenschnelle hochzufahren. Hier ein Beispiel zu einem MySQL Datenbanksystem:
+
+```d
+docker run -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=mysql --name
+mysqldb mysql
+```
+
+
