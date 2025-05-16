@@ -169,7 +169,7 @@ docker run -d --network my-net --name app myapp
 
 ## Datenbanken
 
-Der große Vorteil von Docker ist es unter anderem Datenbanksysteme in Sekundenschnelle hochzufahren. Hier ein Beispiel zu einem MySQL Datenbanksystem:
+Der große Vorteil von Docker ist es unter anderem Datenbanksysteme in sekundenschnelle hochzufahren. Hier ein Beispiel zu einem MySQL Datenbanksystem:
 
 ```d
 docker run -d -p 3306:3306 -e MYSQL_ROOT_PASSWORD=mysql --name
@@ -177,3 +177,45 @@ mysqldb mysql
 ```
 
 
+## Commands:
+
+**Containerverwaltung:**
+
+|Befehl|Beschreibung|
+|---|---|
+|`docker run IMAGE`|Startet einen neuen Container aus einem Image|
+|`docker run -it IMAGE`|Startet interaktiv mit Terminal (z. B. für Bash)|
+|`docker start CONTAINER`|Startet einen gestoppten Container|
+|`docker stop CONTAINER`|Stoppt einen laufenden Container|
+|`docker restart CONTAINER`|Startet Container neu|
+|`docker rm CONTAINER`|Löscht einen (gestoppten) Container|
+|`docker exec -it CONTAINER bash`|Führt Befehl im laufenden Container aus (z. B. Bash)|
+|`docker logs CONTAINER`|Zeigt die Logs eines Containers|
+|`docker ps`|Zeigt laufende Container|
+|`docker ps -a`|Zeigt alle Container (auch gestoppte)|
+|`docker inspect CONTAINER`|Zeigt Detailinfos zu einem Container|
+
+**Imageverwaltung:**
+
+|Befehl|Beschreibung|
+|---|---|
+|`docker pull IMAGE`|Lädt ein Image aus Docker Hub|
+|`docker build -t NAME .`|Baut ein Image aus einem Dockerfile im aktuellen Verzeichnis|
+|`docker images`|Listet alle lokalen Images|
+|`docker rmi IMAGE`|Löscht ein Image|
+|`docker tag IMAGE NEW_NAME`|Vergibt neuen Namen/Tag für ein Image|
+|`docker save -o file.tar IMAGE`|Exportiert ein Image in eine Datei|
+|`docker load -i file.tar`|Importiert ein Image aus Datei|
+
+**Netzwerk & Ports:**
+
+| Befehl                               | Beschreibung                             |
+| ------------------------------------ | ---------------------------------------- |
+| `docker network ls`                  | Listet alle Netzwerke                    |
+| `docker network create NAME`         | Erstellt ein neues Netzwerk              |
+| `docker network inspect NAME`        | Zeigt Details zu einem Netzwerk          |
+| `docker run --network=NAME IMAGE`    | Startet Container in bestimmtem Netzwerk |
+| `docker run -p HOST:CONTAINER IMAGE` | Portweiterleitung vom Host zum Container |
+
+**Volumes und Speicher:**
+#
