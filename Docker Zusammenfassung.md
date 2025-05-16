@@ -10,4 +10,14 @@ Docker basiert auf **Linux-Containern**, die eine **prozessbasierte Virtualisier
 
 ![[Docker Zusammenfassung-20250515164733929.webp|1023]]
 
+**Cgroups:**
+- Definition von Quotas auf Prozesse (auf CPU- und RAM-Ebene)
+
+**Namespaces:**
+- Prozesse isolieren (denkt er ist der einzige Prozess)
+- Netzwerkinterface zu Prozessen zuordnen
+- virtuelles Dateisystem für Prozesse
+
+
+## Images
 
