@@ -54,3 +54,42 @@ Mit dem Befehl `docker build -t imagename .` wird dann das Docker Image erstellt
 ## Docker Container
 
 Ein Docker Container ist die laufende Instanz eines Docker-Images. 
+Hier ein Beispiel eines Nginx Containerstarts:
+
+```
+docker run –d nginx
+```
+
+Wenn das `nginx` Image noch nicht am System verfügbar ist wird es automatisch vom Docker-Hub "gepullt".
+Die Flag `-d` lässt den Container im "detached" Modus laufen, dies bedeutet, dass keine direkte Interaktion mit dem Container per Kommandozeile möglich ist und keine Logs direkt ausgegeben werden 
+
+Hier ein paar der wichtigsten Flags:
+
+**Allgemeine Steuerung:**
+
+| Flag             | Beschreibung                                            |
+| ---------------- | ------------------------------------------------------- |
+| `-d`, `--detach` | Container im Hintergrund starten (detached mode)        |
+| `--name NAME`    | Benutzerdefinierter Name für den Container              |
+| `-it`            | Kombiniert `--interactive` und `--tty` (z. B. für Bash) |
+| `--rm`           | Container nach dem Stoppen automatisch löschen          |
+| `--restart=...`  | Automatischer Neustart (z. B. `always`, `on-failure`)   |
+
+**Ressourcenverwaltung:**
+
+|Flag|Beschreibung|
+|---|---|
+|`--memory`, `-m`|Begrenzung des Speichers (z. B. `512m`, `2g`)|
+|`--cpus`|Begrenzung der CPU-Kerne (z. B. `1.5`)|
+|`--cpu-shares`|CPU-Gewichtung im Vergleich zu anderen Containern|
+|`--pids-limit`|Begrenzung der maximalen Prozessanzahl|
+
+**Netzwerk:**
+
+|Flag|Beschreibung|
+|---|---|
+|`-p HOST:CONTAINER`|Portweiterleitung (z. B. `-p 8080:80`)|
+|`--network`|Netzwerkmodus (`bridge`, `host`, `none`, benanntes Netz)|
+|`--hostname`|Eigener Hostname im Container|
+|`--dns`|Benutzerdefinierte DNS-Server im Container|
+
